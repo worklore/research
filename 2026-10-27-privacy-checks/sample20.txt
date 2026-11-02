@@ -1,0 +1,160 @@
+
+######## 1. NEG aipricinghub.com | section: Get AI pricing changes in your inbox
+FLAGGED: Provider integration is not enabled yet.
+SECTION TEXT:  Monthly pricing moves, new model launches, and practical cost notes. Provider integration is not enabled yet.
+
+######## 2. NEG www.ofacscreen.com | section: 5. Data our customers enter about other people
+FLAGGED: It is not listed by search engines.
+SECTION TEXT:  A training completion record can be checked on a public verification page reached through a link the customer receives. The page shows the name and company entered by the customer, a partly hidden email address, the module, the score and the date. It is not listed by search engines.
+
+######## 3. NEG buywise.fyi | section: When it reads a page
+FLAGGED: On sites judged not to sell products, BuyWise doesn't run at all.
+SECTION TEXT:  Pro, with automatic checks on: product pages as they load, and only on sites that sell physical products, plus any site you turn on yourself. On sites judged not to sell products, BuyWise doesn't run at all. On a site that hasn't been judged yet, it only looks, in your browser, at whether the page is a product page (see below). Pages that don't look like product pages, and cart, checkout, account, order and login pages, are never sent. On shops that also keep personal records, such as pharmacies, only pages that are clearly marked up as a product are sent.
+
+######## 4. NEG countersignatory.com | section: What we do not collect
+FLAGGED: They are hashed on the way in and never written down in clear.
+SECTION TEXT:  Raw IP addresses. They are hashed on the way in and never written down in clear.
+
+######## 5. NEG api.buyerawareapp.com | section: Nature of the output
+FLAGGED: They are not a physical inspection, not a guarantee of vehicle condition, and not financial or legal advice.
+SECTION TEXT:  Verdicts are desk analyses generated from listing data and published information. They are not a physical inspection, not a guarantee of vehicle condition, and not financial or legal advice. Always obtain an independent pre-purchase inspection.
+
+######## 6. NEG larabench.com | section: Your Choices
+FLAGGED: At the moment, the LaraBench desktop app does not provide an in-app telemetry toggle; if that changes, this policy will be updated.
+SECTION TEXT: ## Your Choices
+ You can choose not to create a LaraBench account, and you can stop using the desktop app or website at any time. You can also block or limit Google Analytics through browser settings, browser extensions, or privacy controls made available by Google and your browser. At the moment, the LaraBench desktop app does not provide an in-app telemetry toggle; if that changes, this policy will be updated. 
+
+######## 7. NEG myinsurancecity.com | section: Privacy and safety
+FLAGGED: The chat never asks for your driver's license number, date of birth, SSN, bank or card numbers.
+SECTION TEXT:  Prices are not quoted in chat, and nothing is bound or purchased through an assistant. The chat never asks for your driver's license number, date of birth, SSN, bank or card numbers.
+
+######## 8. NEG vaultvision.tech | section: Security and children
+FLAGGED: Do not submit seed phrases, private keys, passwords, or other wallet secrets.
+SECTION TEXT:  VaultVision uses access controls and privacy hashing, but no internet service can guarantee absolute security. The service is not directed to children. Do not submit seed phrases, private keys, passwords, or other wallet secrets.
+
+######## 9. CONFLICT clippingalpha.com | data: Audience tier (Google and Meta learn it through list membership)
+A: We never share your audience numbers or tier with clipping platforms, brands or anyone else, and they never decide who may join a campaign.
+B: With advertising audiences on, your tier also decides which of our lists your hashed email joins (all verified clippers, US verified, or US verified and Tier 1), so Google and Meta learn which list you are in
+SECTION A: ## How we use it
+ To sign you in and keep your account, preferences and saved campaigns.
+ To send the alerts you ask for, within your daily cap and quiet hours, and to stop them when you unsubscribe.
+ To show you your own audience and tier, and to choose which campaign alerts fit an account you connected. Only you see these numbers.
+ To verify a handle you connect by its bio code, count the posts you add to AP campaigns and award Alpha Points for them.
+ To count visits and see which pages, campaigns and ads work.
+ To see how fast our pages load and respond in each country, on phones and computers, and fix the slow ones.
+ To send ad events to Meta and Google: a landing view, a Join tap, a signup and an activation. Meta and Google may use these events to measure ads and to target and deliver ads, including on their own services. A verified signup also goes to OpenAI, to measure ChatGPT ads
+SECTION B: ## How we use it
+ To sign you in and keep your account, preferences and saved campaigns.
+ To send the alerts you ask for, within your daily cap and quiet hours, and to stop them when you unsubscribe.
+ To show you your own audience and tier, and to choose which campaign alerts fit an account you connected. Only you see these numbers.
+ To verify a handle you connect by its bio code, count the posts you add to AP campaigns and award Alpha Points for them.
+ To count visits and see which pages, campaigns and ads work.
+ To see how fast our pages load and respond in each country, on phones and computers, and fix the slow ones.
+ To send ad events to Meta and Google: a landing view, a Join tap, a signup and an activation. Meta and Google may use these events to measure ads and to target and deliver ads, including on their own services. A verified signup also goes to OpenAI, to measure ChatGPT ads
+
+######## 10. CONFLICT peerpush.com | data: Product information sent to AI companies: the policy says it is not used for training in one place and may be shared to 
+A: Content sent to them is not used to train their models.
+B: To help products get discovered wherever people look for software, we may share the following with partners such as search, analytics, and AI companies, including to help train AI models that recommend products:
+SECTION A: ## 4.2 Third-Party Services
+ We work with trusted third-party providers:
+ Google OAuth: For authentication services
+ Email service providers: For sending authentication and notification emails
+ Cloud storage providers: For hosting uploaded images and files
+ Hosting and infrastructure providers: For service availability
+ AI and machine-learning providers: For classifying product data. Content sent to them is not used to train their models.
+ Advertising partners: To measure how our ads perform
+ Directory submission services: For a Directory Submissions order, we share the founder or preferred name, notification email and approved product details with our fulfillment provider and the selected directories. We share this information only as needed to create and approve listings and to receive operational submission-status or approval notices. Our fulfillment provider works through PeerPush an
+SECTION B: ## 4.3 Partners and Product Discovery
+ To help products get discovered wherever people look for software, we may share the following with partners such as search, analytics, and AI companies, including to help train AI models that recommend products:
+ Public information described in section 4.1
+ Aggregated or de-identified insights that do not identify you
+ We never sell personal information that identifies you.
+
+######## 11. CONFLICT binruleschecker.co.uk | data: Site and tool-usage data that the hosting and email providers handle, which the analytics section says is never shared w
+A: Analytics : first-party, cookieless and aggregate. We measure pages, referrers, device class and tool usage server-side; no cookies are set for measurement, no identifiers are stored, and nothing is shared with third parties.
+B: We use service providers to host and store this site and its data, to route email, and to help us read and answer enquiries, including AI tools.
+SECTION A: ## What we collect, and why
+ Analytics : first-party, cookieless and aggregate. We measure pages,
+ referrers, device class and tool usage server-side; no cookies are set for measurement,
+ no identifiers are stored, and nothing is shared with third parties. This is why this
+ site shows no cookie banner: there is nothing to consent to.
+SECTION B: ## Sharing
+ If you send an enquiry, Bin Rules Checker passes your contact details to at most three relevant waste collection companies, chosen by us. Before your contact details go to anyone, a short description of the job, without your name or contact details, may be shown to other firms in that field so they can say whether they can take it on. As your details go to each firm we email you its name, with a link that stops any more firms receiving them. When you stop, we list the firms that already have them, so you can ask them to delete them. We use service providers to host and store this site and its data, to route email, and to help us read and answer enquiries, including AI tools. We never sell data, run third-party advertising, or load third-party scripts on this site.
+ Notice version n-a4b1e9dd44025f00. It is stored with every enquiry sent under it.
+ Talk to a specialist 
+ BinRul
+
+######## 12. CONFLICT checkmypayrate.com | data: Language selection: the Preferences section says it stays on the device and is not transmitted, while Umami records a la
+A: These values stay on your device, are not transmitted to us, and can be removed by clearing this site's browser data.
+B: It records page views and four events — use of the calculator, selection of a country, selection of a language and clicks on affiliate links — together with only non-personal metadata such as the country, sector, language or link involved.
+SECTION A: ## Preferences stored on your device
+ The site uses your browser's local storage for the selected language, light or dark theme, the preference-notice choice and, after you interact with the calculator, your most recent calculation. These values stay on your device, are not transmitted to us, and can be removed by clearing this site's browser data.
+SECTION B: ## Analytics and technologies used
+ We do not use Google Analytics, social media pixels, advertising cookies or profiling tools. Lovable’s built-in visitor analytics is enabled on the published site and provides aggregated visits, page views, views per visit, session duration, bounce rate, traffic sources, popular pages, device type and visitor country inferred from the browser’s time zone. According to Lovable, it does not retain raw identifiers, link visits to an account or build profiles that follow a person across separate visits. Browser local storage is also used for language, theme, preference-notice choice and the latest calculation. The hosting infrastructure may separately process technical request data such as an IP address, timestamp and requested page for security and reliability.
+ We also use Umami Cloud (EU data region) to collect aggregated visit and usage statistics. Uma
+
+######## 13. CONFLICT peerpush.com | data: IP addresses in click events that feed the public Signals analytics.
+A: We never store raw IP addresses.
+B: IP addresses: Collected to track unique clicks on shared product links and prevent abuse.
+SECTION A: ## 9. Public analytics (Signals)
+ PeerPush publishes aggregated analytics about how AI systems and humans discover products on the platform, on a public page called Signals. We're careful about how this is done:
+ We never store raw IP addresses. Anonymous-visitor identifiers rotate daily so the same browser can't be linked back across days.
+ Free-text inputs like search terms pass through automated PII removal (emails, phone numbers, tokens) before they reach any public page.
+ We never publish a row backed by fewer than 5 distinct visitors. Below that floor, the row is hidden.
+ Per-product detail dashboards are private. Only the verified owner of a product domain can see its detailed analytics.
+ Aggregated daily, weekly, and monthly rollups (which contain no per-visitor data) are kept indefinitely. Raw event rows are dropped on a rolling schedule.
+ Deleting your account removes events ti
+SECTION B: ## 2.4 Usage and Analytics Data
+ We automatically collect certain information when you use our Service:
+ IP addresses: Collected to track unique clicks on shared product links and prevent abuse. For abuse prevention the address may be stored as a one-way hash, never in the clear.
+ Click tracking data: When users click on shared product links
+ Product interaction data: Upvotes, shares, and product views
+ Search queries: To improve our search functionality
+ Device and browser information: For website optimization
+
+######## 14. CONFLICT hedgr.app | data: Accounting ledger data from connected platforms: the policy says no ledger copy is kept, but bank-ledger events from tha
+A: Accounting data: We read it live from your provider and do not keep a copy of your ledger.
+B: We store a daily snapshot of your dashboard figures, and bank-ledger events, so that the dashboard loads quickly and can show what changed.
+SECTION A:  Accounting data: We read it live from your provider and do not keep a copy of your ledger. We store a daily snapshot of your dashboard figures, and bank-ledger events, so that the dashboard loads quickly and can show what changed.
+SECTION B:  Accounting data: We read it live from your provider and do not keep a copy of your ledger. We store a daily snapshot of your dashboard figures, and bank-ledger events, so that the dashboard loads quickly and can show what changed.
+
+######## 15. CONFLICT music-studio.linxule.com | data: Player and WebMCP tool calls to this service: one passage says the hosted service does not receive them, the other says 
+A: These calls stay between the page, the player and your browser's assistant; the hosted service does not receive them, except that in a live session a swap is logged like an edit (see Live sessions), and a say() line in swapped code is synthesized as 
+B: Calls it makes to this service's tools are handled like any other MCP request described here; the script itself is provided by Cloudflare.
+SECTION A:  The player offers tools to the page that hosts it: read its current code and play state, replace or swap the code, play, stop and undo. On a shared player page ( /play , /p/<id> , /s/<id> ), if your browser supports WebMCP, the page passes the same tools to an assistant built into your browser, so you can ask it to change the music. These calls stay between the page, the player and your browser's assistant; the hosted service does not receive them, except that in a live session a swap is logged like an edit (see Live sessions), and a say() line in swapped code is synthesized as described above. What your browser's assistant does with what it reads is governed by that assistant's own terms. A shared page's code was written by whoever made the link, so the tools mark what they return as untrusted content, and the assistant can play or swap code only after Play has been pressed on that pag
+SECTION B:  Separately, Cloudflare, which hosts the service, adds its own WebMCP script ( /.webmcp/bridge.js ) to pages on this domain. It offers this service's MCP tools and image content-credential (C2PA) checks to an assistant built into your browser. Calls it makes to this service's tools are handled like any other MCP request described here; the script itself is provided by Cloudflare.
+
+######## 16. OUTWARD api.buyerawareapp.com
+CLAIM: Web searches run during analysis may reach public sites (NHTSA, KBB, forums, marketplaces) with the vehicle details you supplied, and the policy does not say which search provider runs them.
+RELATED TEXT:  Verdict generation uses the Anthropic API (Claude) with web search and web fetch; the listing content you submit is sent to Anthropic to be analyzed and is subject to Anthropic's commercial terms , under which API inputs are not used to train models. Hosting and data storage are provided by Netlify (United States). Payments are provided by Stripe. Web searches run during analysis may reach public sites (NHTSA, KBB, forums, marketplaces) with the vehicle details you supplied.
+
+######## 17. OUTWARD clippingalpha.com
+CLAIM: The policy says a connected AI agent can read your saved campaigns and alert rules, but it never names the agent or its provider as a recipient, and it never says whether free-text arguments sent by anonymous no-sign-in MCP calls are stored, logged or passed to any third party.
+RELATED TEXT: ## Privacy policy
+ Last updated 26 October 2026 This policy covers clippingalpha.com, its alerts by email, push, Telegram and Whop, its app inside Whop, and its MCP server for AI agents. It says what we collect, why, who receives it and how long we keep it. || ## What we collect
+ Visits The page you open (its path, never the query), the site that sent you (its host only), campaign tags in the link (utm and ad ids), browser and system family, and the country and network looked up from your IP address. With visit counting on, also the browser and system versions, the app whose browser opened the page, the screen and window size, and your color scheme and reduced motion settings, never the full user agent. The IP address is used in memory for that lookup and for bot and abuse checks, then dropped. With ad measurement on, a copy is kept for your ad measurement events until Meta has them, 7 days at most. When you sign up or sign in, we also note the st
+
+######## 18. OUTWARD chargerdojo.com
+CLAIM: The policy implies that endpoint configurations, scenarios and reports users create go outward through integrations with third-party platforms such as AI APIs and cloud providers, and through public report links, without naming any recipient beyond these generic examples.
+RELATED TEXT:  • What you put into the tool Your endpoint configuration, the scenarios you author, and the runs and reports they produce ||  In Settings, under Privacy and data, you can export your data as a JSON file and delete your account. The export holds what you made, so work owned by an organisation you belong to stays with the organisation. Deleting your account revokes the report links you shared and the links to reports you created, even where your organisation keeps the report, so a public link cannot outlive the person behind it. For the other two, email us from the address on your account and a person does it by hand: we answer within 5 working days and finish the request within 30 days. If we have to keep something, such as a tax record or a security log, we tell you what and why.
+ Requests: support@chargerdojo.com
+
+######## 19. OUTWARD www.agentready.market
+CLAIM: The store URL submitted to scan_store is sent outward to the audited store's own website when AgentReady fetches its pages (the 'Our crawler' footer link), and the policy never names that outbound request.
+RELATED TEXT:  What we scan 
+ Inspect 
+ Compare 
+ Index 
+ Research 
+ Developers 
+ Pricing 
+ Scan my store  ||  Store URLs you submit and the resulting scan data (public page data only).
+
+######## 20. OUTWARD cybergenic.im
+CLAIM: Section 7 says personal information may be shared with other parties where you otherwise choose to share information through the Service, but never names a public page, network, or recipient where user-entered text would go.
+RELATED TEXT: ## 1. Introduction
+ This Privacy Policy ("Policy") explains how Cybergenic ("we", "us", or "our") collects, uses, discloses, and protects personal information when you visit or use our website, applications, and related services (together, the "Service").
+ By using the Service, you acknowledge the practices described in this Policy. If you do not agree with this Policy, please do not use the Service.
+ The "Last updated" date shown with this Policy indicates when it was most recently changed. || ## 2. Who We Are
+ Cybergenic is the controller responsible for the personal information described in this Policy, meaning we decide how and why that information is used.
+ If you have any questions about this Policy or about how we handle personal information, you can reach us using the details in the Contact Us section at the end of this Policy.

@@ -1,0 +1,26 @@
+# local tooling
+.venv/
+__pycache__/
+.DS_Store
+*.log
+*.pyc
+node_modules/
+
+# raw agent runs and lane logs stay local: they are large, and an agent's
+# shell can print environment it should not (see 2026-10-18 env leak)
+runs/
+*.out
+
+# docs-pilot screens of prospect companies: kept private while the outreach
+# to them is open; publish a screen only after its lead is closed or agrees
+2026-11-0*-screen/
+
+# archives of runs (same reason as runs/)
+*.tar.gz
+
+# lists of people collected from public profiles: personal data of third
+# parties, kept local; the code and the aggregate reports are public
+2026-10-06-dev-showcase/people.json
+2026-10-06-dev-showcase/results.txt
+2026-10-06-devto-sites/profiles.json
+2026-10-06-devto-sites/unreachable.json

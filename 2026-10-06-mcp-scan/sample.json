@@ -1,0 +1,1402 @@
+[
+ {
+  "name": "ac.tandem/docs-mcp",
+  "version": "0.3.2",
+  "url": "https://tandem.ac/mcp",
+  "repo": "https://github.com/frumu-ai/tandem",
+  "website": "https://tandem.ac/docs-mcp"
+ },
+ {
+  "name": "ad.getle/leads",
+  "version": "1.0.0",
+  "url": "https://mcp.getle.ad/mcp",
+  "repo": "https://github.com/Adgrowofficial/getlead-mcp",
+  "website": "https://getle.ad/mcp"
+ },
+ {
+  "name": "ae.datadubai/dubai-real-estate",
+  "version": "1.1.0",
+  "url": "https://mcp.datadubai.ae/mcp",
+  "repo": "https://github.com/datadubai/dubai-real-estate-dld",
+  "website": "https://datadubai.ae/mcp/"
+ },
+ {
+  "name": "agency.goji/goji",
+  "version": "1.0.1",
+  "url": "https://mcp.goji.agency/mcp",
+  "repo": "https://github.com/goji-agency/goji-mcp",
+  "website": "https://goji.agency"
+ },
+ {
+  "name": "agency.lona/trading",
+  "version": "2.0.0",
+  "url": "https://mcp.lona.agency/mcp",
+  "repo": "https://github.com/mindsightventures/lona",
+  "website": "https://lona.agency"
+ },
+ {
+  "name": "agency.ottobot/business-contact-finder",
+  "version": "0.2.0",
+  "url": "https://business-contact-finder-mcp.ottobot2025.workers.dev/mcp",
+  "repo": "https://github.com/modelcontextprotocol/registry",
+  "website": ""
+ },
+ {
+  "name": "agency.ottobot/contractor-license-changes",
+  "version": "0.1.3",
+  "url": "https://license-changes-mcp.ottobot2025.workers.dev/mcp",
+  "repo": "https://github.com/modelcontextprotocol/registry",
+  "website": ""
+ },
+ {
+  "name": "agency.ottobot/licensed-house-painters",
+  "version": "0.1.2",
+  "url": "https://house-painters.ottobot.agency/mcp",
+  "repo": "https://github.com/modelcontextprotocol/registry",
+  "website": ""
+ },
+ {
+  "name": "ai.1325/mcp",
+  "version": "0.1.3",
+  "url": "https://agoclnqfyinwjxdmjnns.supabase.co/functions/v1/mcp",
+  "repo": "https://github.com/1325ai/1325ai",
+  "website": "https://1325.ai"
+ },
+ {
+  "name": "ai.abmeter/abmeter",
+  "version": "0.2.0",
+  "url": "https://mcp.abmeter.ai",
+  "repo": "https://github.com/abmeter/abmeter",
+  "website": "https://abmeter.ai"
+ },
+ {
+  "name": "ai.adako/ads",
+  "version": "0.3.2",
+  "url": "https://adako.ai/mcp",
+  "repo": "https://github.com/ruslan2027/adako-mcp",
+  "website": "https://adako.ai/docs"
+ },
+ {
+  "name": "ai.adoraads/beauty",
+  "version": "1.0.1",
+  "url": "https://mcp.adoraads.ai/beauty",
+  "repo": "https://github.com/DIGIBIZ360-COM/adoraads",
+  "website": ""
+ },
+ {
+  "name": "ai.adrails/adrails",
+  "version": "1.0.2",
+  "url": "https://adrails.ai/api/mcp",
+  "repo": "https://github.com/devthomy/adrails-mcp",
+  "website": "https://adrails.ai/mcp"
+ },
+ {
+  "name": "ai.agent-bev/bev-door",
+  "version": "0.2.5",
+  "url": "https://mcp.bev-buyer.ai/mcp",
+  "repo": "https://github.com/agent-bev/bev-door",
+  "website": "https://agent-bev.ai"
+ },
+ {
+  "name": "ai.agentberg/agentberg",
+  "version": "0.2.0",
+  "url": "https://agentberg.ai/mcp",
+  "repo": "https://github.com/Agentberg/agentberg",
+  "website": ""
+ },
+ {
+  "name": "ai.agentdm/agentdm",
+  "version": "2.0.0",
+  "url": "https://api.agentdm.ai/mcp/v1/grid",
+  "repo": "https://github.com/agentdmai/agentdm",
+  "website": "https://agentdm.ai"
+ },
+ {
+  "name": "ai.agentic-news/mcp",
+  "version": "1.0.0",
+  "url": "https://api.agentic-news.ai/mcp",
+  "repo": "https://github.com/u00dxk2/agentic-news",
+  "website": "https://agentic-news.ai/mcp"
+ },
+ {
+  "name": "ai.agenticaffiliate/affiliate-networks-mcp",
+  "version": "0.19.0",
+  "url": "https://mcp.agenticaffiliate.ai/mcp",
+  "repo": "https://github.com/bobberrisford/affiliatemcp",
+  "website": "https://agenticaffiliate.ai"
+ },
+ {
+  "name": "ai.agenticbooks/books",
+  "version": "0.1.0",
+  "url": "https://mcp.agenticbooks.ai/mcp",
+  "repo": "https://github.com/AgenticBooks/agenticbooks",
+  "website": "https://www.agenticbooks.ai"
+ },
+ {
+  "name": "ai.agenticshelf/mcp",
+  "version": "1.0.0",
+  "url": "https://api.agenticshelf.ai/mcp",
+  "repo": "https://github.com/vboykoCTO/agentic-shelf",
+  "website": "https://www.agenticshelf.ai"
+ },
+ {
+  "name": "ai.agenticterminal/directory",
+  "version": "1.0.0",
+  "url": "https://mcp.agenticterminal.ai/mcp",
+  "repo": "https://github.com/observer-protocol/at-directory",
+  "website": "https://agenticterminal.ai"
+ },
+ {
+  "name": "ai.agentplaybooks/agentplaybooks",
+  "version": "1.0.0",
+  "url": "https://agentplaybooks.ai/api/mcp/manage",
+  "repo": "https://github.com/matebenyovszky/agentplaybooks",
+  "website": "https://agentplaybooks.ai"
+ },
+ {
+  "name": "ai.agentroam/agentroam",
+  "version": "1.0.0",
+  "url": "https://agentroam.ai/api/mcp",
+  "repo": "https://github.com/adiny/nomad-crypto-travel",
+  "website": "https://agentroam.ai"
+ },
+ {
+  "name": "ai.ai-akari/agent-trust-receipt",
+  "version": "1.1.0",
+  "url": "https://ai-akari.ai/mcp-trust",
+  "repo": "https://github.com/AInoAKARI/AInoAKARI",
+  "website": "https://ai-akari.ai/.well-known/agent-trust.json"
+ },
+ {
+  "name": "ai.aidoo/aidoo",
+  "version": "1.0.0",
+  "url": "https://mcp.aidoo.ai/mcp",
+  "repo": "https://github.com/eantoniomota/aidoo-mcp",
+  "website": "https://aidoo.ai"
+ },
+ {
+  "name": "ai.aient/mcp",
+  "version": "0.1.0",
+  "url": "https://aient.ai/mcp",
+  "repo": "https://github.com/haf/glimt",
+  "website": ""
+ },
+ {
+  "name": "ai.aimentiontracker/mcp",
+  "version": "0.1.2",
+  "url": "https://mcp.aimentiontracker.ai/mcp",
+  "repo": "https://github.com/aimentiontracker/mcp",
+  "website": "https://aimentiontracker.ai"
+ },
+ {
+  "name": "ai.aitopia/aitopia",
+  "version": "1.0.0",
+  "url": "https://mcp.aitopia.ai/mcp",
+  "repo": "https://github.com/AITOPIAai/skills",
+  "website": "https://aitopia.ai"
+ },
+ {
+  "name": "ai.ambix/ambix",
+  "version": "0.1.0",
+  "url": "https://mcp.ambix.ai",
+  "repo": "https://github.com/ambix-ai/mcp",
+  "website": "https://ambix.ai"
+ },
+ {
+  "name": "ai.analyticslegends/sap-analytics",
+  "version": "1.0.8",
+  "url": "https://analyticslegends.ai/mcp",
+  "repo": "https://github.com/analyticslegends/analytics-legends-mcp",
+  "website": "https://analyticslegends.ai"
+ },
+ {
+  "name": "ai.anomalyarmor/armor-mcp",
+  "version": "0.6.1",
+  "url": "https://mcp.anomalyarmor.ai/mcp",
+  "repo": "https://github.com/anomalyarmor/agents",
+  "website": "https://www.anomalyarmor.ai"
+ },
+ {
+  "name": "ai.argushq/enforcement-database",
+  "version": "1.0.0",
+  "url": "https://argushq.ai/api/mcp",
+  "repo": "https://github.com/andrewjgaber-commits/empire-distribution",
+  "website": "https://argushq.ai"
+ },
+ {
+  "name": "ai.arpi/arpi-mcp",
+  "version": "1.0.0",
+  "url": "https://mcp.arpi.ai/mcp",
+  "repo": "https://github.com/arpi-ai/arpi-mcp",
+  "website": "https://arpi.ai"
+ },
+ {
+  "name": "ai.atako/mcp",
+  "version": "0.2.1",
+  "url": "https://api.atako.ai/mcp",
+  "repo": "https://github.com/aiybiz/atako-mcp",
+  "website": "https://atako.ai/en/developers"
+ },
+ {
+  "name": "ai.atdev/supershopping",
+  "version": "1.0.0",
+  "url": "https://supershopping-mcp.atdev.ai/mcp",
+  "repo": "https://github.com/alex-hoyeol-choi/headless-commerce",
+  "website": ""
+ },
+ {
+  "name": "ai.atlaso/mcp",
+  "version": "1.0.1",
+  "url": "https://mcp.atlaso.ai/mcp",
+  "repo": "https://github.com/atlaso-labs/mcp",
+  "website": "https://www.atlaso.ai"
+ },
+ {
+  "name": "ai.atlier/project-desk",
+  "version": "4.7.0",
+  "url": "https://atlier.ai/mcp",
+  "repo": "https://github.com/Wildsdesign/Atlier",
+  "website": "https://atlier.ai"
+ },
+ {
+  "name": "ai.audiopod/audiopod",
+  "version": "2026.9.19",
+  "url": "https://mcp.audiopod.ai",
+  "repo": "https://github.com/AudiopodAI/audiopod-mcp",
+  "website": "https://docs.audiopod.ai/sdks/mcp"
+ },
+ {
+  "name": "ai.auralogs/auralogs",
+  "version": "0.1.0",
+  "url": "https://mcp.auralogs.ai/mcp",
+  "repo": "https://github.com/auralogs-ai/auralogs-mcp",
+  "website": "https://docs.auralogs.ai/read-api/overview/"
+ },
+ {
+  "name": "ai.authoryze/authoryze",
+  "version": "1.0.1",
+  "url": "https://authoryze.ai/api/mcp",
+  "repo": "https://github.com/kevinfee3/authoryze-mcp",
+  "website": "https://authoryze.ai"
+ },
+ {
+  "name": "ai.autonomad/travel",
+  "version": "1.4.4",
+  "url": "https://mcp.autonomad.ai/mcp",
+  "repo": "https://github.com/Autonomad1/autonomad1",
+  "website": "https://www.autonomad.ai"
+ },
+ {
+  "name": "ai.auxen/auxen",
+  "version": "1.0.2",
+  "url": "https://api.auxen.ai/mcp",
+  "repo": "https://github.com/auxen-ai/auxen-mcp",
+  "website": "https://auxen.ai"
+ },
+ {
+  "name": "ai.avaloncompany/web-content-url-tools",
+  "version": "1.0.0",
+  "url": "https://avalonai--web-content-url-tools-mcp.apify.actor/mcp",
+  "repo": "https://github.com/avaloncompany/web-content-mcp-server",
+  "website": "https://apify.com/avalonai/web-content-url-tools-mcp"
+ },
+ {
+  "name": "ai.avasis/quant-research",
+  "version": "0.2.0",
+  "url": "https://quant-mcp.avasis.ai/mcp",
+  "repo": "https://github.com/abhayjnayakk/quant-integrity",
+  "website": "https://quant-mcp.avasis.ai"
+ },
+ {
+  "name": "ai.aviado/health",
+  "version": "0.1.0",
+  "url": "https://aviado.ai/api/mcp",
+  "repo": "https://github.com/kipmcc/aviado-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.awraiter/telegram",
+  "version": "1.0.0",
+  "url": "https://awraiter.ai/mcp",
+  "repo": "https://github.com/MediaZione/AwrAiter",
+  "website": "https://awraiter.ai/mcp-server/"
+ },
+ {
+  "name": "ai.backengine/backengine-mcp",
+  "version": "8.1.1",
+  "url": "https://backengine-prod.backengine.ai/mcp",
+  "repo": "https://github.com/BackEngine-ai/backengine-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.bamf/bamf",
+  "version": "1.0.0",
+  "url": "https://mcp.bamf.ai",
+  "repo": "https://github.com/houstongolden/bamfaiapp",
+  "website": "https://bamf.ai"
+ },
+ {
+  "name": "ai.bankee/inferventis-mcp",
+  "version": "1.0.2",
+  "url": "https://mcp-server-295985738387.europe-west1.run.app/mcp",
+  "repo": "https://github.com/Bankee-ai/inferventis",
+  "website": "https://mcp-server-295985738387.europe-west1.run.app"
+ },
+ {
+  "name": "ai.bareun/bareun",
+  "version": "3.0.0",
+  "url": "https://api.bareun.ai/mcp",
+  "repo": "https://github.com/gih2yun/bareun-mcp",
+  "website": "https://bareun.ai"
+ },
+ {
+  "name": "ai.basethread/basethread",
+  "version": "1.0.0",
+  "url": "https://mcp.basethread.ai/mcp",
+  "repo": "https://github.com/navbuildz/basethread-mcp",
+  "website": "https://basethread.ai"
+ },
+ {
+  "name": "ai.bcited/bcited",
+  "version": "0.6.0",
+  "url": "https://mcp.bcited.ai/public",
+  "repo": "https://github.com/cmunkres/bcited-cf",
+  "website": "https://bcited.ai/claude-skill"
+ },
+ {
+  "name": "ai.benchgecko/benchgecko",
+  "version": "1.0.0",
+  "url": "https://benchgecko.ai/api/mcp",
+  "repo": "https://github.com/BenchGecko/datasets",
+  "website": "https://benchgecko.ai/api-docs#mcp"
+ },
+ {
+  "name": "ai.betslipdoctor/mcp",
+  "version": "1.1.0",
+  "url": "https://api.betslipdoctor.ai/api/mcp",
+  "repo": "https://github.com/opspot-ai/betslipdoctor",
+  "website": ""
+ },
+ {
+  "name": "ai.betterpost/server",
+  "version": "2.0.0",
+  "url": "https://betterpost.ai/mcp",
+  "repo": "https://github.com/betterpost/betterpost-plugin",
+  "website": "https://betterpost.ai"
+ },
+ {
+  "name": "ai.biddeed/biddeed-mcp",
+  "version": "1.0.1",
+  "url": "https://mcp.biddeed.ai/api/mcp",
+  "repo": "https://github.com/breverdbidder/cli-anything-biddeed",
+  "website": ""
+ },
+ {
+  "name": "ai.bithuman/docs",
+  "version": "1.0.1",
+  "url": "https://docs.bithuman.ai/docs-mcp",
+  "repo": "https://gitlab.com/projects/87208064",
+  "website": "https://docs.bithuman.ai/resources/agents#docs-mcp"
+ },
+ {
+  "name": "ai.bitroad/bitroad",
+  "version": "1.0.0",
+  "url": "https://app.bitroad.ai/api/v1/mcp",
+  "repo": "https://github.com/bitroadai/bitroad-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.bittlebits/bittlebits",
+  "version": "1.0.0",
+  "url": "https://bittlebits.ai/mcp",
+  "repo": "https://github.com/bittlebitsai/bittlebits-plugin",
+  "website": "https://bittlebits.ai/docs/mcp"
+ },
+ {
+  "name": "ai.bizmoon/regulatory",
+  "version": "1.0.0",
+  "url": "https://bizmoon.ai/api/mcp",
+  "repo": "https://github.com/uofuonye/bizmoon-plugins",
+  "website": "https://bizmoon.ai/mcp"
+ },
+ {
+  "name": "ai.blast-radius/blast-radius",
+  "version": "0.1.0",
+  "url": "https://blast-radius.ai/mcp",
+  "repo": "https://github.com/kipmcc/blast-radius-live",
+  "website": ""
+ },
+ {
+  "name": "ai.bloopo/bloopo",
+  "version": "0.1.1",
+  "url": "https://mcp.bloopo.ai/mcp",
+  "repo": "https://github.com/BloopodotAI/bloopo-marketplace",
+  "website": "https://bloopo.ai"
+ },
+ {
+  "name": "ai.boolsai/directory",
+  "version": "1.0.0",
+  "url": "https://directory.boolsai.ai/mcp",
+  "repo": "https://github.com/Boolsai-ai/mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.boolsai/grep",
+  "version": "1.0.0",
+  "url": "https://grep.boolsai.ai/mcp",
+  "repo": "https://github.com/Boolsai-ai/mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.boolsai/scan",
+  "version": "1.0.0",
+  "url": "https://boolsai.ai/mcp",
+  "repo": "https://github.com/Boolsai-ai/mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.boolsai/signals",
+  "version": "1.0.0",
+  "url": "https://signals.boolsai.ai/mcp",
+  "repo": "https://github.com/Boolsai-ai/mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.borealhost/mcp",
+  "version": "0.4.2",
+  "url": "https://borealhost.ai/mcp/",
+  "repo": "https://github.com/alainsvrd/borealhost-mcp",
+  "website": "https://borealhost.ai"
+ },
+ {
+  "name": "ai.boundaryai/boundaryai",
+  "version": "0.7.31",
+  "url": "https://mcp.boundaryai.ai/mcp",
+  "repo": "https://github.com/skvcool-rgb/BoundaryAI",
+  "website": "https://boundaryai.ai"
+ },
+ {
+  "name": "ai.bowmark/bowmark",
+  "version": "8.165.5",
+  "url": "https://api.bowmark.ai/mcp/registry",
+  "repo": "https://github.com/bowmark-ai/skill",
+  "website": "https://bowmark.ai"
+ },
+ {
+  "name": "ai.bridgeapp/bridgeapp",
+  "version": "1.0.0",
+  "url": "https://mcp.bridgeapp.ai/mcp",
+  "repo": "https://github.com/MathAndMagic/bridgeapp-plugin",
+  "website": "https://bridgeapp.ai"
+ },
+ {
+  "name": "ai.byteask/embedded-docs",
+  "version": "1.0.1",
+  "url": "https://mcp.byteask.ai/mcp",
+  "repo": "https://github.com/ByteAsk/ByteAsk-Embedded-MCP",
+  "website": "https://docs.byteask.ai/embedded"
+ },
+ {
+  "name": "ai.cabrini/market-data",
+  "version": "1.1.0",
+  "url": "https://cabrini.ai/mcp",
+  "repo": "https://github.com/nlapi/cabrini-py",
+  "website": ""
+ },
+ {
+  "name": "ai.calaf/calaf",
+  "version": "1.8.1",
+  "url": "https://calaf.ai/api/mcp-account",
+  "repo": "https://github.com/gallaghern51-art/calaf-mcp",
+  "website": "https://calaf.ai"
+ },
+ {
+  "name": "ai.calendarmcp/server",
+  "version": "1.0.0",
+  "url": "https://calendarmcp.ai/api/mcp",
+  "repo": "https://github.com/Full-Vibe/calendarmcp-public",
+  "website": "https://calendarmcp.ai"
+ },
+ {
+  "name": "ai.canaryusers/canaryusers",
+  "version": "1.2.2",
+  "url": "https://www.canaryusers.ai/api/mcp",
+  "repo": "https://github.com/CanaryUsers-ai/canaryusers-mcp",
+  "website": "https://www.canaryusers.ai/mcp"
+ },
+ {
+  "name": "ai.canvora/canvora",
+  "version": "1.2.0",
+  "url": "https://api.canvora.ai/mcp",
+  "repo": "https://github.com/canvora/canvora-mcp",
+  "website": "https://canvora.ai/for-agents"
+ },
+ {
+  "name": "ai.catalystproject/evidence-graph",
+  "version": "0.2.0",
+  "url": "https://catalystproject.ai/mcp",
+  "repo": "https://github.com/colorcatalyst/catalyst-mcp",
+  "website": "https://catalystproject.ai/connect"
+ },
+ {
+  "name": "ai.cdbx/mcp-server",
+  "version": "1.1.0",
+  "url": "https://cdbx.ai/api/mcp/server",
+  "repo": "https://github.com/ChristopherHButler/cdbx.ai",
+  "website": ""
+ },
+ {
+  "name": "ai.centralcity/central-city",
+  "version": "0.8.0",
+  "url": "https://centralcity.ai/mcp/open",
+  "repo": "https://github.com/centralcity-ai-org/protocol",
+  "website": "https://centralcity.ai"
+ },
+ {
+  "name": "ai.cerebrium/docs",
+  "version": "0.1.1",
+  "url": "https://cerebrium.ai/docs/mcp",
+  "repo": "https://github.com/CerebriumAI/cerebrium-skills",
+  "website": "https://cerebrium.ai/docs"
+ },
+ {
+  "name": "ai.certscore/mcp-light",
+  "version": "0.2.20",
+  "url": "https://mcp.certscore.ai/mcp/light",
+  "repo": "https://github.com/ergoveritas1-alt/certscore.ai",
+  "website": "https://certscore.ai/mcp/light"
+ },
+ {
+  "name": "ai.chronary/mcp",
+  "version": "1.5.2",
+  "url": "https://api.chronary.ai/mcp",
+  "repo": "https://github.com/Chronary/chronary-mcp",
+  "website": "https://docs.chronary.ai/mcp/overview"
+ },
+ {
+  "name": "ai.citybook/citybook",
+  "version": "1.0.0",
+  "url": "https://mcp.citybook.ai/mcp",
+  "repo": "https://github.com/yeunge-pawlo/citybook",
+  "website": "https://citybook.ai"
+ },
+ {
+  "name": "ai.clarid/compliance",
+  "version": "1.0.0",
+  "url": "https://mcp.clarid.ai/mcp",
+  "repo": "https://github.com/clarid-ai/compliance-checker",
+  "website": "https://clarid.ai"
+ },
+ {
+  "name": "ai.clarid/hmda",
+  "version": "1.0.0",
+  "url": "https://api.clarid.ai/mcp",
+  "repo": "https://github.com/clarid-ai/compliance-checker",
+  "website": "https://clarid.ai"
+ },
+ {
+  "name": "ai.clawfight/mcp",
+  "version": "0.2.0",
+  "url": "https://clawfight.ai/mcp",
+  "repo": "https://github.com/clawfight/mcp",
+  "website": "https://clawfight.ai/platforms"
+ },
+ {
+  "name": "ai.cleanvector/cleanvector",
+  "version": "1.0.1",
+  "url": "https://cleanvector.ai/api/mcp",
+  "repo": "https://github.com/bydllhcbn/cleanvector-mcp",
+  "website": "https://cleanvector.ai/mcp"
+ },
+ {
+  "name": "ai.clipstudio/mcp",
+  "version": "1.0.0",
+  "url": "https://clipstudio.ai/api/mcp",
+  "repo": "https://github.com/j-acks0n/clipstudio-mcp",
+  "website": "https://clipstudio.ai/mcp"
+ },
+ {
+  "name": "ai.cloudcrane/workspace",
+  "version": "1.0.0",
+  "url": "https://cloudcrane.ai/api/build/mcp",
+  "repo": "https://github.com/cloudcrane-dev/cloudcrane-mcp",
+  "website": "https://cloudcrane.ai/docs/build-mcp"
+ },
+ {
+  "name": "ai.cobbles/cobbles",
+  "version": "1.0.0",
+  "url": "https://api.cobbles.ai/mcp",
+  "repo": "https://github.com/Yu1586/cobbles",
+  "website": "https://cobbles.ai"
+ },
+ {
+  "name": "ai.cofoundagent/cofound",
+  "version": "1.0.0",
+  "url": "https://mcp.cofoundagent.ai/mcp",
+  "repo": "https://github.com/cofound-agent/plugin",
+  "website": ""
+ },
+ {
+  "name": "ai.coingraph/coingraph",
+  "version": "1.0.0",
+  "url": "https://coingraph.ai/api/mcp",
+  "repo": "https://github.com/eventgraphai/coingraph",
+  "website": "https://coingraph.ai/mcp"
+ },
+ {
+  "name": "ai.com.mcp/contabo",
+  "version": "0.6.0",
+  "url": "https://contabo.run.mcp.com.ai/mcp",
+  "repo": "https://github.com/la-rebelion/hapimcp",
+  "website": "https://run.mcp.com.ai"
+ },
+ {
+  "name": "ai.com.mcp/lenny-rachitsky-podcast",
+  "version": "0.6.0",
+  "url": "https://lenny-rachitsky.run.mcp.com.ai/mcp",
+  "repo": "https://github.com/la-rebelion/hapimcp",
+  "website": "https://mcp.com.ai"
+ },
+ {
+  "name": "ai.com.mcp/linkedin",
+  "version": "1.0.0+0.7.1",
+  "url": "https://linkedin.run.mcp.com.ai/mcp",
+  "repo": "https://github.com/la-rebelion/hapimcp",
+  "website": "https://run.mcp.com.ai"
+ },
+ {
+  "name": "ai.com.mcp/openai-tools",
+  "version": "0.6.0",
+  "url": "https://openai-tools.run.mcp.com.ai/mcp",
+  "repo": "https://github.com/la-rebelion/hapimcp",
+  "website": "https://platform.openai.com/docs/api-reference"
+ },
+ {
+  "name": "ai.com.mcp/petstore",
+  "version": "0.6.0",
+  "url": "https://petstore.run.mcp.com.ai/mcp",
+  "repo": "https://github.com/la-rebelion/hapimcp",
+  "website": "https://run.mcp.com.ai"
+ },
+ {
+  "name": "ai.com.mcp/registry",
+  "version": "1.0.0",
+  "url": "https://registry.run.mcp.com.ai/mcp",
+  "repo": "https://github.com/modelcontextprotocol/registry",
+  "website": "https://run.mcp.com.ai"
+ },
+ {
+  "name": "ai.com.mcp/skills-search",
+  "version": "1.0.0",
+  "url": "https://skills-sh.run.mcp.com.ai/mcp",
+  "repo": "https://github.com/agentskills/agentskills",
+  "website": "https://run.mcp.com.ai"
+ },
+ {
+  "name": "ai.com.mcp/strava",
+  "version": "3.0.0+0.7.1",
+  "url": "https://strava.run.mcp.com.ai/mcp",
+  "repo": "https://github.com/la-rebelion/hapimcp",
+  "website": "https://run.mcp.com.ai"
+ },
+ {
+  "name": "ai.compeller/compel",
+  "version": "0.5.1",
+  "url": "https://compeller.ai/api/mcp",
+  "repo": "https://github.com/Compellerai/compeller-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.connectmachine/connectmachine",
+  "version": "1.0.8",
+  "url": "https://mcp.connectmachine.ai/mcp",
+  "repo": "https://github.com/connectmachine/mcp-server",
+  "website": "https://connectmachine.ai/docs/mcp"
+ },
+ {
+  "name": "ai.connie/connie",
+  "version": "1.0.1",
+  "url": "https://mcp.connie.ai",
+  "repo": "https://github.com/conigma-team/connie",
+  "website": "https://connie.ai/docs/mcp"
+ },
+ {
+  "name": "ai.cookiy/cookiy",
+  "version": "1.7.19",
+  "url": "https://s-api.cookiy.ai/mcp",
+  "repo": "https://github.com/cookiy-ai/cookiy-skill",
+  "website": "https://cookiy.ai/developer-portal"
+ },
+ {
+  "name": "ai.cosmonote/notes",
+  "version": "1.0.0",
+  "url": "https://nebula.cosmonote.ai/mcp",
+  "repo": "https://github.com/cosmonote/pocketbase",
+  "website": "https://cosmonote.ai"
+ },
+ {
+  "name": "ai.cotal/cotal",
+  "version": "1.1.0",
+  "url": "https://cotal.ai/mcp",
+  "repo": "https://github.com/Cotal-AI/Cotal",
+  "website": "https://cotal.ai"
+ },
+ {
+  "name": "ai.cralo/mcp",
+  "version": "0.4.4",
+  "url": "https://mcp.cralo.ai/mcp",
+  "repo": "https://github.com/amrnth/opentooler",
+  "website": "https://cralo.ai"
+ },
+ {
+  "name": "ai.crayonz/mcp",
+  "version": "0.1.0",
+  "url": "https://mcp.crayonz.ai/mcp",
+  "repo": "https://github.com/iitian-vibes/AIDesign",
+  "website": "https://crayonz.ai"
+ },
+ {
+  "name": "ai.creationloop/creationloop",
+  "version": "0.1.0",
+  "url": "https://creationloop.ai/api/mcp",
+  "repo": "https://github.com/marino129/creationloop-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.creativescope/creative-intelligence",
+  "version": "1.0.0",
+  "url": "https://mcp.creativescope.ai/mcp",
+  "repo": "https://github.com/creativescope/creativescope-mcp",
+  "website": "https://creativescope.ai"
+ },
+ {
+  "name": "ai.customdomain/mcp",
+  "version": "0.5.0",
+  "url": "https://mcp.customdomain.ai/mcp",
+  "repo": "https://github.com/CUSTOM-DOMAIN-APP/customdomain-mcp",
+  "website": "https://customdomain.ai"
+ },
+ {
+  "name": "ai.dablock/visibility-index",
+  "version": "1.0.1",
+  "url": "https://dablock.ai/mcp",
+  "repo": "https://github.com/creanlab/ai-visibility-index",
+  "website": "https://dablock.ai/"
+ },
+ {
+  "name": "ai.dabyte/visibility-index",
+  "version": "1.0.1",
+  "url": "https://dabyte.ai/mcp",
+  "repo": "https://github.com/creanlab/ai-visibility-index",
+  "website": "https://dabyte.ai/"
+ },
+ {
+  "name": "ai.darkfunnels/docs",
+  "version": "1.0.0",
+  "url": "https://docs.darkfunnels.ai/mcp",
+  "repo": "https://github.com/darkfunnels-ai/darkfunnels-mcp",
+  "website": "https://docs.darkfunnels.ai"
+ },
+ {
+  "name": "ai.darkfunnels/whatsapp-sales-agent",
+  "version": "1.0.1",
+  "url": "https://mcp.darkfunnels.ai/mcp?features=all",
+  "repo": "https://github.com/darkfunnels-ai/darkfunnels-mcp",
+  "website": "https://darkfunnels.ai/agents"
+ },
+ {
+  "name": "ai.dataecho/mcp",
+  "version": "1.0.0",
+  "url": "https://dataecho.ai/mcp",
+  "repo": "https://github.com/mohocp/dataecho",
+  "website": "https://dataecho.ai"
+ },
+ {
+  "name": "ai.deepledger/mcp",
+  "version": "1.0.5",
+  "url": "https://mcp.deepledger.ai/mcp",
+  "repo": "https://github.com/DeepLedger/deepledger-plugin",
+  "website": "https://deepledger.ai"
+ },
+ {
+  "name": "ai.deinai/creator-skill",
+  "version": "1.0.2",
+  "url": "https://deinai.ai/mcp",
+  "repo": "https://github.com/deinai/deinai_backend",
+  "website": "https://deinai.ai"
+ },
+ {
+  "name": "ai.deinai/creator-skill-v2",
+  "version": "0.2.1",
+  "url": "https://skill.deinai.ai/mcp",
+  "repo": "https://github.com/deinai/skill-service",
+  "website": "https://skill.deinai.ai"
+ },
+ {
+  "name": "ai.deskcrew/agentic",
+  "version": "1.0.0",
+  "url": "https://deskcrew.ai/api/mcp",
+  "repo": "https://github.com/papperkash/ttf-website-v3",
+  "website": ""
+ },
+ {
+  "name": "ai.diagramzu/mcp",
+  "version": "0.0.3",
+  "url": "https://mcp.diagramzu.ai/mcp",
+  "repo": "https://github.com/yenchieh/diagramzu-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.dinglebear/rtailscale",
+  "version": "0.1.4",
+  "url": "https://ts.dinglebear.ai/mcp",
+  "repo": "https://github.com/dinglebear-ai/rtailscale",
+  "website": "https://rtailscale.dinglebear.ai"
+ },
+ {
+  "name": "ai.djwizard/tvwizard",
+  "version": "0.7.0",
+  "url": "https://tv.djwizard.ai/mcp/",
+  "repo": "https://github.com/fizzious1/TVWizard-mcp",
+  "website": "https://tv.djwizard.ai"
+ },
+ {
+  "name": "ai.djzs/trust-mcp",
+  "version": "1.0.0",
+  "url": "https://mcp.djzs.ai/mcp",
+  "repo": "https://github.com/SIFR0-dev/djzs-AI",
+  "website": "https://djzs.ai"
+ },
+ {
+  "name": "ai.docnexus.mcp/docnexus",
+  "version": "1.1.0",
+  "url": "https://mcp.docnexus.ai/mcp",
+  "repo": "https://github.com/docnexusai/docnexus-mcp",
+  "website": "https://mcp.docnexus.ai"
+ },
+ {
+  "name": "ai.doklad/mcp",
+  "version": "1.1.0",
+  "url": "https://doklad.ai/mcp",
+  "repo": "https://github.com/vict0ry/doklad-ai-mcp",
+  "website": "https://doklad.ai/mcp-fakturace"
+ },
+ {
+  "name": "ai.dreamlit/mcp",
+  "version": "0.1.0",
+  "url": "https://mcp.dreamlit.ai/mcp",
+  "repo": "https://github.com/dreamlit-ai/dreamlit-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.drillr/drillr",
+  "version": "2.3.0",
+  "url": "https://gateway.drillr.ai/mcp/data",
+  "repo": "https://github.com/Little-Grebe-Inc/drillr-mcp-server",
+  "website": "https://drillr.ai/docs/mcp?ref=mp_registry"
+ },
+ {
+  "name": "ai.dsght/public",
+  "version": "1.1.0",
+  "url": "https://www.dsght.ai/mcp",
+  "repo": "https://github.com/michalstrnadel/dsght-landing",
+  "website": "https://www.dsght.ai/install"
+ },
+ {
+  "name": "ai.duami/intent-exchange",
+  "version": "0.1.0",
+  "url": "https://duami.ai/mcp",
+  "repo": "https://github.com/mjbf5g7y8m-byte/matrix",
+  "website": "https://duami.ai"
+ },
+ {
+  "name": "ai.dynt.api/dynt",
+  "version": "1.0.0",
+  "url": "https://api.dynt.ai/mcp",
+  "repo": "https://github.com/bpais88/dynt-server",
+  "website": "https://dynt.ai"
+ },
+ {
+  "name": "ai.edgechat/edgepedia",
+  "version": "1.0.1",
+  "url": "https://www.edgechat.ai/mcp",
+  "repo": "https://github.com/EdgePlat/edgepedia-mcp",
+  "website": "https://www.edgechat.ai/developers"
+ },
+ {
+  "name": "ai.ekwo/mcp",
+  "version": "0.9.0",
+  "url": "https://mcp.ekwo.ai/mcp",
+  "repo": "https://github.com/Ekwo-ai/ekwo-os",
+  "website": "https://ekwo.ai"
+ },
+ {
+  "name": "ai.emberverse/emberverse",
+  "version": "3.0.0",
+  "url": "https://emberverse.ai/mcp",
+  "repo": "https://github.com/Palmerschallon/ember",
+  "website": "https://emberverse.ai/agents"
+ },
+ {
+  "name": "ai.empiriolabs/mcp",
+  "version": "1.2.0",
+  "url": "https://mcp.empiriolabs.ai/mcp",
+  "repo": "https://github.com/EmpirioLabs-AI/mcp",
+  "website": "https://docs.empiriolabs.ai/mcp"
+ },
+ {
+  "name": "ai.entityenricher/enricher",
+  "version": "2.0.0",
+  "url": "https://entityenricher.ai/api/mcp/",
+  "repo": "https://github.com/TOT-Concept/mcp-server-entity-enricher",
+  "website": "https://entityenricher.ai/docs/integrations/mcp"
+ },
+ {
+  "name": "ai.epinu/epinu",
+  "version": "1.0.4",
+  "url": "https://api.epinu.ai/api/agent/mcp",
+  "repo": "https://github.com/CMS87/epinu-mcp",
+  "website": "https://epinu.ai"
+ },
+ {
+  "name": "ai.etincel/etincel-nonfiction",
+  "version": "0.10.1",
+  "url": "https://etincel.ai/api/mcp",
+  "repo": "https://github.com/AIStoryHub/etincel",
+  "website": "https://etincel.ai/connect"
+ },
+ {
+  "name": "ai.everpod/everpod",
+  "version": "0.2.0",
+  "url": "https://everpod.ai/mcp",
+  "repo": "https://github.com/everpod-ai/mcp",
+  "website": "https://everpod.ai/docs/api"
+ },
+ {
+  "name": "ai.everway/everway-mcp-server",
+  "version": "1.0.1",
+  "url": "https://everway.ai/api/mcp",
+  "repo": "https://github.com/everway-ai/everway-mcp-server",
+  "website": "https://everway.ai/mcp"
+ },
+ {
+  "name": "ai.exa/exa",
+  "version": "3.4.1",
+  "url": "https://mcp.exa.ai/mcp",
+  "repo": "https://github.com/exa-labs/exa-mcp-server",
+  "website": ""
+ },
+ {
+  "name": "ai.example4/xmp4",
+  "version": "1.2.6",
+  "url": "https://mcp.example4.ai/mcp",
+  "repo": "https://github.com/0ics-srls/lsai-xmp4.public",
+  "website": "https://example4.ai"
+ },
+ {
+  "name": "ai.explorium/mcp-explorium",
+  "version": "1.0.1",
+  "url": "https://mcp-github-registry.explorium.ai/mcp",
+  "repo": "https://github.com/explorium-ai/mcp-explorium",
+  "website": ""
+ },
+ {
+  "name": "ai.extend/extend",
+  "version": "1.0.0",
+  "url": "https://mcp.extend.ai/mcp",
+  "repo": "https://github.com/extend-hq/extend-agent-plugin",
+  "website": "https://docs.extend.ai/mcp"
+ },
+ {
+  "name": "ai.fairmind/project-context",
+  "version": "1.0.1",
+  "url": "https://project-context.fairmind.ai/mcp/mcp",
+  "repo": "https://github.com/FairMind-Gen-AI-Studio/fairmind-mcp",
+  "website": "https://www.fairmind.ai"
+ },
+ {
+  "name": "ai.familyofficeknowledgegraph/fo-kg",
+  "version": "0.19.13",
+  "url": "https://mcp.familyofficeknowledgegraph.ai/mcp",
+  "repo": "https://github.com/Agentic-Private-Office/fo-kg-door",
+  "website": "https://familyofficeknowledgegraph.ai"
+ },
+ {
+  "name": "ai.feedback1/mcp",
+  "version": "1.1.0",
+  "url": "https://app.feedback1.ai/api/mcp",
+  "repo": "https://gitlab.com/tonyzorin/feedback1",
+  "website": "https://feedback1.ai"
+ },
+ {
+  "name": "ai.fgac/fgac",
+  "version": "0.1.1",
+  "url": "https://fgac.ai/api/mcp",
+  "repo": "https://github.com/fgac-ai/fine_grain_access_control",
+  "website": "https://fgac.ai"
+ },
+ {
+  "name": "ai.fiber/mcp",
+  "version": "1.0.0",
+  "url": "https://mcp.fiber.ai/mcp/v2/",
+  "repo": "https://github.com/fiber-ai/mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.file2markdown/file2markdown",
+  "version": "1.0.0",
+  "url": "https://mcp.file2markdown.ai/mcp",
+  "repo": "https://github.com/Robinhill85/file2markdown-mcp",
+  "website": "https://www.file2markdown.ai/mcp"
+ },
+ {
+  "name": "ai.financegenius/financegenius",
+  "version": "1.2.0",
+  "url": "https://mcp.financegenius.ai/mcp/",
+  "repo": "https://github.com/financegenius-ai/Financegenius.ai",
+  "website": "https://financegenius.ai/connect"
+ },
+ {
+  "name": "ai.firmbrain/x402-services",
+  "version": "1.0.1",
+  "url": "https://x402-services-production.up.railway.app/mcp",
+  "repo": "https://github.com/bkrigmo1/robinhood-chain-x402",
+  "website": ""
+ },
+ {
+  "name": "ai.flowcastle/flowcastle",
+  "version": "1.0.0",
+  "url": "https://api.flowcastle.ai/api/mcp",
+  "repo": "https://github.com/FlowCastle/telegram-bot-templates",
+  "website": "https://flowcastle.ai"
+ },
+ {
+  "name": "ai.fluttergo/remote",
+  "version": "1.0.0",
+  "url": "https://fluttergo.ai/api/mcp/remote",
+  "repo": "https://github.com/fasmartpaf/fluttergo.ai",
+  "website": "https://fluttergo.ai/integrations/mcp/"
+ },
+ {
+  "name": "ai.flyvolo/knowledge",
+  "version": "0.1.1",
+  "url": "https://mcp.flyvolo.ai/mcp",
+  "repo": "https://github.com/weihermans/VOLO",
+  "website": "https://flyvolo.ai"
+ },
+ {
+  "name": "ai.fodda/brand-intelligence",
+  "version": "1.46.31",
+  "url": "https://mcp.fodda.ai/brand-intelligence",
+  "repo": "https://github.com/piers-fawkes/fodda-mcp",
+  "website": "https://www.fodda.ai"
+ },
+ {
+  "name": "ai.forkmate/forkmate",
+  "version": "0.1.7",
+  "url": "https://mcp.forkmate.ai/",
+  "repo": "https://github.com/shawnazar/forkmate-mcp",
+  "website": "https://forkmate.ai"
+ },
+ {
+  "name": "ai.foura/mcp",
+  "version": "0.7.3",
+  "url": "https://mcp.foura.ai/mcp",
+  "repo": "https://github.com/fouradata/mcp",
+  "website": "https://foura.ai/mcp"
+ },
+ {
+  "name": "ai.framethrower/framethrower",
+  "version": "1.0.0",
+  "url": "https://framethrower.ai/api/mcp",
+  "repo": "https://github.com/framethrower-ai/framethrower-mcp",
+  "website": "https://framethrower.ai/mcp"
+ },
+ {
+  "name": "ai.gavelin/mcp",
+  "version": "1.0.0",
+  "url": "https://mcp.gavelin.ai/mcp",
+  "repo": "https://github.com/gavelin-ai/mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.gemus/gemus",
+  "version": "0.1.0",
+  "url": "https://gemus.ai/api/mcp",
+  "repo": "https://github.com/Gemus-AI/Gemus",
+  "website": "https://gemus.ai"
+ },
+ {
+  "name": "ai.gency/gency-lite",
+  "version": "1.0.0",
+  "url": "https://lite.gency.ai/api/mcp",
+  "repo": "https://github.com/studiolab-dev/gency-lite",
+  "website": "https://lite.gency.ai/developers"
+ },
+ {
+  "name": "ai.gethal/mcp",
+  "version": "1.0.0",
+  "url": "https://gethal.ai/mcp",
+  "repo": "https://gitlab.com/acf5914932/gethal.ai-lp",
+  "website": "https://gethal.ai"
+ },
+ {
+  "name": "ai.getminds/minds",
+  "version": "2.0.2",
+  "url": "https://getminds.ai/mcp",
+  "repo": "https://github.com/minds-ai-co/minds-mcp",
+  "website": "https://getminds.ai/mcp/setup"
+ },
+ {
+  "name": "ai.getperspective/mcp",
+  "version": "0.0.8",
+  "url": "https://getperspective.ai/mcp",
+  "repo": "https://github.com/Perspective-AI/mcp",
+  "website": "https://getperspective.ai/docs/build/mcp"
+ },
+ {
+  "name": "ai.giljo/hq",
+  "version": "2.0.4",
+  "url": "https://app.giljo.ai/mcp",
+  "repo": "https://github.com/giljoai/giljo-hq",
+  "website": "https://giljo.ai"
+ },
+ {
+  "name": "ai.glasser/glasser",
+  "version": "0.1.2",
+  "url": "https://api.glasser.ai/mcp",
+  "repo": "https://github.com/glasser-ai/plugins",
+  "website": "https://glasser.ai"
+ },
+ {
+  "name": "ai.gondola/gondola",
+  "version": "0.1.6",
+  "url": "https://mcp.gondola.ai/mcp",
+  "repo": "https://github.com/gondola-ai/gondola-mcp",
+  "website": "https://www.gondola.ai"
+ },
+ {
+  "name": "ai.gregbenza/meet",
+  "version": "1.0.1",
+  "url": "https://gregbenza.ai/mcp/meet",
+  "repo": "https://github.com/TheNonduality/gregbenza-ai",
+  "website": "https://gregbenza.ai/meet/"
+ },
+ {
+  "name": "ai.groundroute/web-search",
+  "version": "0.1.0",
+  "url": "https://api.groundroute.ai/mcp",
+  "repo": "https://github.com/PROJECT-B-26/groundroute-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.gtfi/groundtruth",
+  "version": "1.0.1",
+  "url": "https://gtfi.ai/mcp",
+  "repo": "https://github.com/Dranos-Bot/groundtruth-mcp",
+  "website": "https://gtfi.ai/for-agents"
+ },
+ {
+  "name": "ai.helixar/mcp",
+  "version": "0.0.1",
+  "url": "https://mcp.helixar.ai/mcp",
+  "repo": "https://github.com/Helixar-AI/helixar-mcp",
+  "website": "https://helixar.ai/connect"
+ },
+ {
+  "name": "ai.heyyumi/heyyumi",
+  "version": "1.0.5",
+  "url": "https://mcp.heyyumi.ai/mcp",
+  "repo": "https://github.com/hmp-dev/heyyumi-mcp",
+  "website": "https://heyyumi.ai/mcp"
+ },
+ {
+  "name": "ai.hiddencontent/mcp",
+  "version": "0.4.15",
+  "url": "https://api.hiddencontent.ai/v1/mcp",
+  "repo": "https://github.com/AeroSpark-ai/hidden-content-service",
+  "website": "https://hiddencontent.ai/start?ref=mcp-registry"
+ },
+ {
+  "name": "ai.hotker/hotker",
+  "version": "1.0.2",
+  "url": "https://hotker.ai/mcp",
+  "repo": "https://github.com/c2bcom10-ship-it/hotker",
+  "website": "https://hotker.ai"
+ },
+ {
+  "name": "ai.hypernatural/hypernatural",
+  "version": "1.0.1",
+  "url": "https://api.hypernatural.ai/mcp",
+  "repo": "https://github.com/hypernaturalai/hypernatural-mcp",
+  "website": "https://hypernatural.ai"
+ },
+ {
+  "name": "ai.hypnothera/hypnothera",
+  "version": "1.3.0",
+  "url": "https://hypnothera.ai/api/mcp",
+  "repo": "https://github.com/La-Salida/hypnothera-skill",
+  "website": "https://hypnothera.ai"
+ },
+ {
+  "name": "ai.hyreflow/hyreflow",
+  "version": "1.0.0",
+  "url": "https://recruit.hyreflow.ai/api/v2/mcp",
+  "repo": "https://github.com/automindz-solutions/hyreflow-plugins",
+  "website": "https://hyreflow.ai/docs/mcp-setup"
+ },
+ {
+  "name": "ai.i18nagent/i18n-agent",
+  "version": "1.16.3",
+  "url": "https://mcp.i18nagent.ai/mcp",
+  "repo": "https://github.com/i18n-agent/mcp-client",
+  "website": ""
+ },
+ {
+  "name": "ai.igoyal/public-context",
+  "version": "1.1.0",
+  "url": "https://igoyal.ai/mcp",
+  "repo": "https://github.com/IshanGoyal/personal-website",
+  "website": "https://igoyal.ai/machine-access"
+ },
+ {
+  "name": "ai.imaginode/imaginode",
+  "version": "1.0.2",
+  "url": "https://imaginode.ai/api/mcp",
+  "repo": "https://github.com/Frankhoubre/imaginode-mcp",
+  "website": "https://imaginode.ai"
+ },
+ {
+  "name": "ai.immopix/mcp",
+  "version": "1.0.0",
+  "url": "https://immopix.ai/mcp",
+  "repo": "https://github.com/Immopix/mcp",
+  "website": "https://immopix.ai/en/docs/mcp/"
+ },
+ {
+  "name": "ai.inflowpay.app/inflow",
+  "version": "1.0.3",
+  "url": "https://app.inflowpay.ai/mcp",
+  "repo": "https://github.com/inflowpayai/inflow-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.infolang/mcp",
+  "version": "0.1.0",
+  "url": "https://api.infolang.ai/v1/mcp/",
+  "repo": "https://github.com/InfoLang-Inc/infolang-services",
+  "website": "https://infolang.ai/mcp"
+ },
+ {
+  "name": "ai.inite/inite-visibility",
+  "version": "1.1.2",
+  "url": "https://inite.ai/api/mcp",
+  "repo": "https://github.com/inite-ai/inite-visibility",
+  "website": "https://inite.ai/en/analyze"
+ },
+ {
+  "name": "ai.instantclips/instantclips",
+  "version": "1.7.1",
+  "url": "https://app.instantclips.ai/mcp",
+  "repo": "https://github.com/InstantStudioAI/instantclips-mcp",
+  "website": "https://instantclips.ai/automate/"
+ },
+ {
+  "name": "ai.intodns/scanner",
+  "version": "1.10.3",
+  "url": "https://intodns.ai/api/mcp",
+  "repo": "https://github.com/RoscoNL/intodns-mcp-server",
+  "website": "https://intodns.ai/mcp"
+ },
+ {
+  "name": "ai.inxy/seo-audit",
+  "version": "1.4.0",
+  "url": "https://inxy.ai/api/mcp",
+  "repo": "https://github.com/riverliu8/inxy-mcp",
+  "website": "https://inxy.ai/mcp"
+ },
+ {
+  "name": "ai.ironscout/ironscout",
+  "version": "1.0.0",
+  "url": "https://mcp.ironscout.ai/mcp",
+  "repo": "https://github.com/jeb-scarbrough/IronScout",
+  "website": "https://www.ironscout.ai/.well-known/ids.md"
+ },
+ {
+  "name": "ai.iturri/market-data",
+  "version": "0.2.2",
+  "url": "https://iturri.ai/mcp",
+  "repo": "https://github.com/iturri-ai/iturri-mcp",
+  "website": "https://iturri.ai"
+ },
+ {
+  "name": "ai.jaxon/dsail",
+  "version": "1.0.5",
+  "url": "https://agents.jaxon.ai/mcp",
+  "repo": "https://github.com/JaxonAI/dsail",
+  "website": "https://docs.agents.jaxon.ai"
+ },
+ {
+  "name": "ai.joinmultiplayer/gpu",
+  "version": "2026.06.10",
+  "url": "https://joinmultiplayer.ai/mcp",
+  "repo": "https://github.com/yukakust/joinmultiplayer.ai",
+  "website": "https://joinmultiplayer.ai"
+ },
+ {
+  "name": "ai.joxo/joxo",
+  "version": "0.2.45",
+  "url": "https://joxo.ai/api/mcp",
+  "repo": "https://github.com/JoxoAI/joxo",
+  "website": "https://joxo.ai"
+ },
+ {
+  "name": "ai.justdomain/just-domain",
+  "version": "0.5.1",
+  "url": "https://mcp.justdomain.ai/",
+  "repo": "https://github.com/just-done/just-domain-mcp",
+  "website": "https://justdomain.ai"
+ },
+ {
+  "name": "ai.justpublish/just-publish",
+  "version": "0.1.12",
+  "url": "https://mcp.justpublish.ai/",
+  "repo": "https://github.com/just-done/just-publish-mcp",
+  "website": "https://justpublish.ai"
+ },
+ {
+  "name": "ai.kanonik/kanonik",
+  "version": "1.0.0",
+  "url": "https://app.kanonik.ai/mcp",
+  "repo": "https://github.com/Kanonik-LLC/kanonik-plugin",
+  "website": "https://kanonik.ai"
+ },
+ {
+  "name": "ai.keenable/web-search",
+  "version": "0.1.2",
+  "url": "https://api.keenable.ai/mcp?keenable_title=mcp-registry",
+  "repo": "https://github.com/keenableai/keenable-mcp",
+  "website": ""
+ },
+ {
+  "name": "ai.kernora/agent-sec",
+  "version": "0.1.0",
+  "url": "https://agentsec.kernora.ai/mcp",
+  "repo": "https://github.com/kernora-ai/agent-sec",
+  "website": "https://agentsec.kernora.ai"
+ },
+ {
+  "name": "ai.klavis/strata",
+  "version": "1.0.0",
+  "url": "https://strata.klavis.ai/mcp/",
+  "repo": "https://github.com/Klavis-AI/klavis",
+  "website": ""
+ },
+ {
+  "name": "ai.klipy/klipy",
+  "version": "1.3.1",
+  "url": "https://api.klipy.ai/mcp",
+  "repo": "https://github.com/klipyai/poc-nextjs-nylas",
+  "website": ""
+ }
+]

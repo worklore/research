@@ -1,0 +1,221 @@
+
+######## www.matchoffice.com | score 13 | policy https://www.matchoffice.com/privacy | repo -
+door: 9/9 pages without link | mentions agent/MCP: True | tools 3 named 0
+  CONFLICT [email address and advertisement interest stored in the account for fra]
+    A: Personal data will not be stored without your prior consent.
+    B: MatchOffice collects and stores personal information of users to reduce fraudulent offers. For this purpose, your email address, as well as the advertisement you are interested in, is stored in your account, so we can in
+  CONFLICT [usage data about site visits stored via Google cookies in the USA]
+    A: Personal data will not be stored without your prior consent.
+    B: The information about your use of our website, which is stored in these cookies, is transferred to a Google server in the USA and stored there.
+  CONFLICT [usage information collected through Google Remarketing/Adsense cookies]
+    A: Personal data may be transferred to third parties only for the provision of the ordered services, billing, or if you have given prior consent to this.
+    B: Google may transfer this information to third parties if it is required by the law, or if these third parties are authorized to process the data on behalf of Google.
+  CONFLICT [landlord business contact details and listing photos shared with Data ]
+    A: Personal data are collected, processed and used by MatchOffice only to the extent necessary to provide the services offered on our website.
+    B: MatchOffice may share listing information, including photos, and — where relevant — the landlord's business contact details, with selected Data Partners (e.g. providers of commercial real estate market data and analytics
+  OUTWARD: The policy says order and contact requests reach the owner of the premises ("the form ... shows who will have access to these data, e.g. the owner of the premises") and that data may go to Data Partners, but it does not name the landlord or Data Partners as recipients of the create_order fields, inc
+  UNNAMED: search_locations: query, section, currency, rent_format, sort_by, country_alpha2 — the policy does not describe search queries or filters; get_location: no arguments; the policy does not describe location lookups; create_order: name, email, phone, company, comment — the policy names these fields onl
+
+######## www.prognyx.com | score 12 | policy https://www.prognyx.com/privacy | repo -
+door: 0/40 pages without link | mentions agent/MCP: True | tools 3 named 1
+  CONFLICT [Whether the browser analytics script loads on the Live Landscape / MCP]
+    A: Live Landscape and direct MCP requests do not load this browser analytics script.
+    B: Enable your browser's Do Not Track setting to prevent the analytics script from loading, or use the analytics opt-out link .
+  CONFLICT [Visitor identifier and visit history in browser local storage: the sec]
+    A: Since 6 September 2026 the measurement also keeps a random anonymous identifier in your browser's local storage (no cookie, never linked to a name or an email address, never shared) so that a return visit is recognised a
+    B: Prognyx uses cookieless analytics. On pages where analytics is enabled, browser local storage keeps a random visitor identifier and visit history
+  CONFLICT [Email reference code: the section says it is 'never shared' and is 'ne]
+    A: Analytics only ever sees the opaque code; the list matching codes to recipients stays on Prognyx's own systems and is never shared.
+    B: Prognyx does not sell, rent or trade personal data, and has no affiliate or data-broker relationships.
+  CONFLICT [Google as a recipient: the font sentence rules out Google contact on p]
+    A: Fonts are served from this domain, so visiting does not contact Google.
+    B: Live landscape searches: Google processing is subject to the applicable Antigravity account terms
+  OUTWARD: The MCP section says search_briefings queries go to the 'published briefing index' without naming where that index is hosted or who operates it.
+  UNNAMED: POST /mcp search_briefings query: the text of the query is never described in the policy as being sent to a named destination; the policy covers search terms only for Live Landscape and the MCP tool names/terms in function logs, not the search_briefings query flow.; POST /mcp search_registry query: 
+
+######## 501c3.help | score 11 | policy https://501c3.help/privacy_policy/ | repo -
+door: 1/28 pages without link | mentions agent/MCP: True | tools 3 named 0
+  CONFLICT [Identifiers and internet activity collected through analytics and adve]
+    A: We do not sell personal information for money.
+    B: Those technologies may disclose identifiers and internet activity to third parties and may be treated as “sharing,” targeted advertising, or similar processing under certain privacy laws.
+  CONFLICT [Personal identifiers and internet activity disclosed to analytics and ]
+    A: We do not sell personal information for monetary consideration.
+    B: Under some privacy laws, these activities may be considered: a sale or disclosure requiring an opt-out right.
+  CONFLICT [Social Security numbers and other government-issued identifiers]
+    A: Do not provide Social Security numbers, full payment-card details, health information, biometric information, or other highly sensitive information unless we specifically request it through an appropriate secure process.
+    B: government-issued identifiers contained in filing documents
+  CONFLICT [Personal information of users under 16, with no age carve-out in the d]
+    A: We do not knowingly sell or share personal information of individuals under 16 years of age.
+    B: We may use analytics, advertising, and conversion technologies that disclose personal identifiers and internet activity to third parties.
+  OUTWARD: The policy says 'create websites and digital infrastructure' and 'manage Google Ad Grants and other campaigns' using client mission and program content, but never names that client-provided text as published on public websites or ad campaigns.
+  UNNAMED: get_state_requirements: the state and topic strings are not described anywhere in the policy; where they go and who sees them is not stated; compare_states: the topic string is not described; where it goes and who sees it is not stated; get_filing_deadlines: the state string is not described; where 
+
+######## leakdata.io | score 11 | policy https://leakdata.io/privacy | repo -
+door: 23/40 pages without link | mentions agent/MCP: True | tools 7 named 0
+  CONFLICT [Breach-search values and search terms: the first says they are exclude]
+    A: Search inputs, monitoring targets, breach contents and payment details are not copied into this measurement ledger.
+    B: Direct breach-search values are not retained in plaintext search history; a one-way hash and limited operational metadata may be retained under the applicable plan and security controls.
+  CONFLICT [Search terms and their hashes: analytics payloads exclude search-term ]
+    A: Analytics event and replay payloads do not include names, email addresses, search terms or their hashes, passwords, monitoring targets, breach details, full URLs, query strings, referrers, free-form errors, or user-agent
+    B: Direct breach-search values are not retained in plaintext search history; a one-way hash and limited operational metadata may be retained under the applicable plan and security controls.
+  CONFLICT [Face photos and consent-withdrawal effects: face-search withdrawal doe]
+    A: Withdrawing face-search consent prevents future optional searches, but does not retroactively undo processing completed for a search you already submitted.
+    B: Withdrawing consent stops future collection but does not itself erase data already delivered.
+  CONFLICT [Consent records: the policy promises nothing is stored before consent,]
+    A: Analytics is off by default: until you consent to analytics, no Amplitude code runs and nothing is stored in your browser or sent.
+    B: Historical consent audit rows created before this design are access-restricted and are not destructively altered without a separately reviewed retention decision.
+  OUTWARD: Section 6 says a connected assistant can receive account data and that the assistant provider handles conversations under its own policy, but the policy does not say what user-typed query text sent through unauthenticated MCP tools (leakdata.search, leakdata.breach_lookup, leakdata.company_monitorin
+  UNNAMED: leakdata.search: string argument 'type' — policy never describes the type value, where it goes, or who sees it; leakdata.search: string argument 'query' — policy names search inputs only as not copied into the measurement ledger; never says where a query goes or who sees it when sent via the MCP too
+
+######## a2a-retailmedia.ai | score 10 | policy https://gsc-em.com/privacy | repo https://github.com/greencore-solutions/a2a-retailmedia
+door: 0/24 pages without link | mentions agent/MCP: True | tools 19 named 0
+  CONFLICT [personal information disclosed to AI systems or the public]
+    A: We do not share personal information with advertisers, data brokers or the AI systems that read the record.
+    B: We may disclose information where the law requires it or to protect the rights, property or safety of GSC, our users or the public.
+  CONFLICT [IP address and user agent logged from machine traffic without the pers]
+    A: We collect personal information only when you give it to us, we use it only for the purpose you gave it, and we do not sell it.
+    B: Calls carry technical data — an address, a user agent, the door called and the time — which our edge and hosting providers log for security and operations.
+  CONFLICT [paying address on receipts, kept indefinitely, treated as both persona]
+    A: A blockchain address is not, on its own, personal information, and we do not link it to a person unless you tell us who you are.
+    B: Receipts are a permanent record of settlement and resolve indefinitely; they carry no personal information beyond the paying address.
+  CONFLICT [contact-form submissions (name, company, work email, message) reaching]
+    A: Forms are delivered to GSC by our form-handling provider and to no one else.
+    B: We share personal information only with service providers who process it on our behalf and under our instructions: our form-handling provider, our hosting and edge providers (Microsoft Azure, Google Cloud and Cloudflare)
+  OUTWARD: The policy says GSC publishes records, cards and receipts and that AI systems read the record, but never says whether user-submitted text such as contact or maker fields is included in what is published or read by those systems.
+  UNNAMED: submit_demand.contact; enrol_maker.contact; submit_demand.budget_approved_by
+
+######## peerpush.com | score 10 | policy https://peerpush.com/privacy | repo -
+door: 0/40 pages without link | mentions agent/MCP: True | tools 9 named 0
+  CONFLICT [Product information sent to AI companies: the policy says it is not us]
+    A: Content sent to them is not used to train their models.
+    B: To help products get discovered wherever people look for software, we may share the following with partners such as search, analytics, and AI companies, including to help train AI models that recommend products:
+  CONFLICT [IP addresses in click events that feed the public Signals analytics.]
+    A: We never store raw IP addresses.
+    B: IP addresses: Collected to track unique clicks on shared product links and prevent abuse.
+  CONFLICT [Usernames and profile pictures (section 4.1 public profile information]
+    A: We never sell personal information that identifies you.
+    B: Public information described in section 4.1
+  CONFLICT [Arguments of peerpush_create_product (name, tagline, description, URLs]
+    A: The tool used and a one-way hash of its search arguments, never the arguments in the clear
+    B: Product name, description, and tagline
+  OUTWARD: Section 9 implies free-text inputs reach public pages after PII removal, but names only search terms as such inputs, so it does not say whether free text submitted through peerpush_create_product follows the same path.
+  UNNAMED: peerpush_create_product.contactEmail: the policy never says where this email goes or who sees it; peerpush_create_product.externalId: never described; peerpush_create_product.appStoreUrl, playStoreUrl, mcpServerUrl, cliInstallCommand, apiDocsUrl: section 2.2 names only website URL, social links, scr
+
+######## mcp.blocksize.info | score 9 | policy https://mcp.blocksize.info/privacy | repo https://github.com/jf-cmyk/agentic-payments
+door: 39/40 pages without link | mentions agent/MCP: True | tools 9 named 1
+  CONFLICT [Account details (email address, name, account ID) are governed both by]
+    A: Records of individual requests (tool calls, requested instruments, search text, hashed IP addresses, user agents, and credit charges) are deleted 29 days after they are recorded.
+    B: The account details stored when you sign up have no fixed deletion schedule; you can ask us to delete them at any time through the support page.
+  CONFLICT [Operational, security, and billing records tied to Claude connector tr]
+    A: Data we receive through the Claude connector is kept for under 30 days.
+    B: We retain other operational, security, and billing-related records only for as long as they are reasonably needed for service delivery, fraud prevention, debugging, compliance, or contractual obligations.
+  CONFLICT [The email address and account ID: stated as not returned in credit res]
+    A: Direct identifiers are not returned in connector credit responses.
+    B: When you create a connector account, the account details our sign-in provider shares with us: your email address, name (if given), account ID, email verification status, and sign-up time.
+  OUTWARD: The policy says Clerk, Resend and Railway receive data, but it does not say whether the free-text search or fetch arguments sent to the public discovery tools are passed to any third party or published, and the 'Your Choices' section mentions a support page without saying what user text sent there i
+  UNNAMED: get_market_data_endpoint: the 'symbol' argument (what is done with it beyond the free discovery queries, and whether it is logged); search: the 'query' argument (free-text search; the policy names search text only in the retention list, not as a collected or shared item for this tool); fetch: the 'i
+
+######## caravanstorageprices.co.uk | score 9 | policy https://caravanstorageprices.co.uk/privacy/ | repo -
+door: 0/10 pages without link | mentions agent/MCP: False | tools 3 named 0
+  CONFLICT [Enquiry details and email replies, which service providers (hosting, e]
+    A: We never sell data, run third-party advertising, or load third-party scripts on this site.
+    B: We use service providers to host and store this site and its data, to route email, and to help us read and answer enquiries, including AI tools.
+  CONFLICT [Contact details in enquiries, which are passed to named storage firms,]
+    A: Analytics: ... nothing is shared with third parties.
+    B: If you send an enquiry, Caravan Storage Prices passes your contact details to at most three caravan and motorhome storage sites near me, chosen by us.
+  CONFLICT [Job description of an enquiry, which may be shown to other firms, vers]
+    A: Before your contact details go to anyone, a short description of the job, without your name or contact details, may be shown to other firms in that field
+    B: We never sell data, run third-party advertising, or load third-party scripts on this site.
+  OUTWARD: The policy says the job description 'may be shown to other firms in that field' and that enquiries go to 'at most three caravan and motorhome storage sites', but does not name those firms or the AI tool providers that receive enquiry text.
+  UNNAMED: submit_enquiry: confirmation string argument, its text is never described in the policy (the policy does not say what the confirmation field contains, where it is sent, or who sees it); enquiry_describe and enquiry_fields: no string arguments, but the policy does not say what these tools return or w
+
+######## www.godavaii.com | score 9 | policy https://www.godavaii.com/privacy | repo -
+door: 5/40 pages without link | mentions agent/MCP: True | tools 3 named 0
+  CONFLICT [Chat history / conversations: the first says the AI keeps nothing betw]
+    A: The AI does not "remember" your data between sessions unless you choose to save conversations to your account.
+    B: Chat sessions: Saved to your account until you delete them
+  CONFLICT [User-submitted health text and images sent to Google AI Studio / OpenA]
+    A: Both providers process data in real time under enterprise data processing agreements and do not retain user data beyond the request lifecycle or use it to train their public models.
+    B: Usage history: Retained for 7 years to comply with tax and regulatory requirements
+  CONFLICT [Face scan observation and related chat content: section 6A says the fa]
+    A: Google processes the image in real time under an enterprise data processing agreement and does not retain or use it to train public models.
+    B: Chat sessions: Saved to your account until you delete them
+  OUTWARD: The sign-in-free tools (check_drug_interaction, medicine_info, ask_health_ai) accept user text that the policy never says goes anywhere, so it is unclear whether those queries reach the AI providers or are retained.
+  UNNAMED: drug1, drug2 (check_drug_interaction): the policy never says what happens to the drug names sent to this tool, who receives them or who sees them; name (medicine_info): the policy never says what happens to the medicine name sent to this tool, who receives it or who sees it; question (ask_health_ai)
+
+######## travel-trends.mmatinca.eu | score 9 | policy https://travel-trends.mmatinca.eu/privacy | repo -
+door: 40/40 pages without link | mentions agent/MCP: True | tools 0 named 0
+  CONFLICT [Trip label and destination/date data: section 1 says these are stored ]
+    A: The published copy contains the destinations, date window, label, updates log and latest assessment; it never contains your webhook URL, the signing secret, or your owner_token .
+    B: Trip monitoring ( watch_trip ) — ... the destination country codes ..., the travel date window, and — only if you provide them — a free-text label and a webhook URL
+  CONFLICT [Gemini recipient: section 1 says the target language and source-derive]
+    A: We do not send Gemini your destinations, travel dates, label, webhook URL, owner token, signing secret or assistant conversation.
+    B: For optional non-English localization, Google Gemini processes only source-derived event text and the requested target language under Google's Gemini API terms; it is not sent the trip inputs or secrets listed above.
+  CONFLICT [IP addresses: section 1 and section 5 say no per-request IPs are kept ]
+    A: Operational logs contain no per-request IP addresses, so no personal data accumulates there.
+    B: Traffic to the site passes through Cloudflare (see Recipients), which processes connection data such as IP addresses under its own policy to route and protect the traffic.
+  OUTWARD: The assistant's conversation is processed by the AI assistant platform (named only as an example, 'for example OpenAI for ChatGPT') and the free-text label is published on a public page, which the policy describes but does not name as a recipient in the section listing published data.
+
+######## utilify.io | score 8 | policy https://utilify.io/privacy.html | repo https://github.com/Utilify-io/utilify-mcp
+door: 0/40 pages without link | mentions agent/MCP: True | tools 0 named 0
+  CONFLICT [Contact details and solar form data passed to the solar installer afte]
+    A: We do not sell your personal information to data brokers, lead marketplaces, advertising networks, or list buyers, and we never put your details into a ping-post or lead-auction system
+    B: Under some state privacy laws, paying us a referral fee makes this a "sale" of personal data, even though we think of it as an introduction.
+  CONFLICT [Email address and contact details shared with Resend, a third party th]
+    A: We do not share your contact details with a solar installer — or anyone else — unless you have explicitly confirmed that you want us to.
+    B: Resend — transactional email delivery (receives your email address and the contents of emails we send you, such as solar confirmation emails)
+  CONFLICT [Name, address, email and phone entered for provider signup, collected ]
+    A: We do not share your full name, address, email, or phone number with affiliate networks — only anonymous click tracking IDs
+    B: For utility and insurance partners, when you click a signup link you are redirected to the provider's website, and the provider (not Utilify) collects your information to complete enrollment.
+  OUTWARD: Section 2 says users can "ask our assistant about solar" and Section 9 names no AI or model provider that would receive that typed text.
+
+######## clippingalpha.com | score 8 | policy https://clippingalpha.com/privacy | repo -
+door: 0/40 pages without link | mentions agent/MCP: True | tools 17 named 0
+  CONFLICT [IP address of signed-up accounts]
+    A: Nothing else we store holds your IP address.
+    B: With ad measurement on, an account that signed up but has not confirmed an alert channel yet keeps the IP address and user agent of its signup for the signup event Meta gets, 7 days at most.
+  CONFLICT [Audience tier (Google and Meta learn it through list membership)]
+    A: We never share your audience numbers or tier with clipping platforms, brands or anyone else, and they never decide who may join a campaign.
+    B: With advertising audiences on, your tier also decides which of our lists your hashed email joins (all verified clippers, US verified, or US verified and Tier 1), so Google and Meta learn which list you are in
+  CONFLICT [Profile pictures]
+    A: Sign-in drops profile pictures.
+    B: An Instagram account connected for an audience check keeps a copy of its profile picture (kept on our servers and shown only to you)
+  OUTWARD: The policy says a connected AI agent can read your saved campaigns and alert rules, but it never names the agent or its provider as a recipient, and it never says whether free-text arguments sent by anonymous no-sign-in MCP calls are stored, logged or passed to any third party.
+  UNNAMED: search_campaigns.query: free-text search string, never described (where it goes, whether it is stored or logged); search_campaigns.niche, agency, board, sort and board_summary.board: filter or board names, never described; get_moments.source_id and get_assets/plan_clips/get_campaign_analytics.campai
+
+######## reqbeat.com | score 8 | policy https://reqbeat.com/privacy | repo https://github.com/reqbeat/mcp-server
+door: 0/40 pages without link | mentions agent/MCP: True | tools 0 named 0
+  CONFLICT [an individual's contact details printed by an employer inside a postin]
+    A: No contact PII of any kind — no name, email address, phone number, or profile of a natural person — is ever served as a field.
+    B: The description field is the advertisement's own text, stored and served exactly as the employer published it.
+  CONFLICT [personal details printed in a posting's description text in the corpus]
+    A: Depending on where you're located, you may have the right to access, correct, or request deletion of the personal data we hold about you (your account data — see above; this does not apply to the corpus, which holds no p
+    B: Where an employer has chosen to print an individual's details in their own public job advert, those details are inside that text.
+  CONFLICT [raw posting text, description and URL, with two different retention pe]
+    A: The signals database that powers longer-history features (first-hire timing, ATS-vendor migration detection, repost patterns) deletes raw posting records — the posting text, description and URL — 24 months from first det
+    B: The research corpus surface behind reqbeat.com's public pages retains a rolling 30-day window on posting date
+  OUTWARD: Matches are delivered to a webhook URL you choose, which may be a third-party tool such as Clay or n8n, but the policy names no such destination and does not say whether search criteria sent over MCP reach any party beyond Reqbeat.
+
+######## clstr.news | score 8 | policy https://clstr.news/privacy | repo -
+door: 0/12 pages without link | mentions agent/MCP: True | tools 4 named 0
+  CONFLICT [Account data (email, display name) and product data stored against the]
+    A: Product data. Items you create on the service (followed topics, briefing and monitor preferences) are stored against your account.
+    B: We use this to authenticate you and to send service emails.
+  CONFLICT [Per-request usage records for API and MCP calls: the policy says they ]
+    A: These records never include your search params, IP address or raw user agent.
+    B: For the developer API and MCP server we also keep per-request usage records, to understand how the service is used and to improve it.
+  CONFLICT [Usage records tied to an account via an internal identifier when a con]
+    A: For applications you connect with OAuth, those records identify the request by an internal identifier for your account rather than by a key.
+    B: Connected applications can read news data through the MCP server on your behalf and share your plan's usage limits; they cannot manage your account, keys, or billing.
+  OUTWARD: The policy's 'AI model providers' line says they 'process news content and search queries', but no sentence says whether search queries typed by a signed-out visitor or MCP caller are sent outward; the unnamed tool query strings may reach those providers.
+  UNNAMED: search_situations: query, summary, cursor (the policy names search queries only as going to 'AI model providers', without saying where the query text is stored or whether it is logged); get_top_situations: category, country, window, sort, summary, cursor (filter and summary parameters not described;
+
+######## app.canvs.io | score 8 | policy https://canvs.io/privacy | repo -
+door: 1/10 pages without link | mentions agent/MCP: False | tools 0 named 0
+  CONFLICT [Personal data shared with hosting and infrastructure providers, which ]
+    A: We do not sell personal data.
+    B: We may share information only in the following circumstances: With infrastructure and hosting providers that help us operate the Service.
+  CONFLICT [Account information, submitted content, and Service data: deletion tim]
+    A: We may delete or anonymize data earlier where it is no longer required.
+    B: Account information, submitted content, and Service data may be retained while needed to provide continued access, functionality, or continuity of the Service.
+  OUTWARD: Section 7 says the Service may process content generated or returned through it, and section 8 says third-party integrations may process information, but the policy never names which outside parties receive submitted user content.

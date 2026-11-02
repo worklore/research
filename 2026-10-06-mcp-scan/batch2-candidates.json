@@ -1,0 +1,239 @@
+[
+ {
+  "kind": "banana",
+  "repo": "ShieldZCash/shieldz-mcp",
+  "url": "https://shieldz.cash/mcp",
+  "name": "io.github.ShieldZCash/mcp",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "f13506069e6e",
+  "hits": []
+ },
+ {
+  "kind": "banana",
+  "repo": "fieldproofhq/policy-gate",
+  "url": "https://policy-gate.3labsio.workers.dev/mcp",
+  "name": "dev.workers.3labsio.policy-gate/policy-gate",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "ecbe6c93cc5d",
+  "hits": [
+   [
+    "worker/worker.js",
+    2290,
+    "protocolVersion: typeof rpc.params?.protocolVersion === 'string' ? rpc.params.protocolVersion : '2025-06-18',"
+   ]
+  ]
+ },
+ {
+  "kind": "banana",
+  "repo": "joelalexolang/mkliniki-mcp",
+  "url": "https://api-kjijorqedq-uc.a.run.app/mcp",
+  "name": "ke.co.mkliniki/mkliniki",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "e4064d4f4ddc",
+  "hits": []
+ },
+ {
+  "kind": "names",
+  "repo": "gaiaftcl-sudo/uum8dSolarResearch",
+  "url": "https://affine.earth/language-invariant/mcp",
+  "name": "earth.affine/math-court",
+  "bad": [
+   "atc.assert_4d_deconfliction",
+   "twin.robotics.evaluate_exact_ik",
+   "weather.convective_containment"
+  ],
+  "live": true,
+  "repo_ok": true,
+  "sha": "9e91a984ba65",
+  "hits": [
+   [
+    "clients/math-court-mcp/http/mcp-tools.js",
+    4,
+    "var names = [\"atc.assert_4d_deconfliction\", \"corpus_bonds\", \"critique_frame\", \"execute_transition\", \"feeds_catalog\", \"game_frame_meta\", \"ide_rebuild_mesh\", \"mem"
+   ],
+   [
+    "clients/math-court-mcp/http/tools.py",
+    14,
+    "\"atc.assert_4d_deconfliction\","
+   ],
+   [
+    "clients/math-court-mcp/http/tools.py",
+    23,
+    "\"twin.robotics.evaluate_exact_ik\","
+   ]
+  ]
+ },
+ {
+  "kind": "banana",
+  "repo": "team-windsock/windsock-mcp",
+  "url": "https://windsock.ai/mcp",
+  "name": "ai.windsock/windsock",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "4fb8307370c9",
+  "hits": []
+ },
+ {
+  "kind": "banana",
+  "repo": "blame-today/blame-web",
+  "url": "https://blame.today/mcp",
+  "name": "today.blame/mcp",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "1114d8a913c6",
+  "hits": [
+   [
+    "worker/mcp.js",
+    117,
+    "protocolVersion: (params && params.protocolVersion) || SUPPORTED_PROTOCOL,"
+   ]
+  ]
+ },
+ {
+  "kind": "banana",
+  "repo": "rndrpp/100pro-mcp",
+  "url": "https://x402.rendraputra.dev/mcp",
+  "name": "dev.rendraputra/100pro-token-risk",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "e8494c42bc27",
+  "hits": [
+   [
+    "pro100/bridge.py",
+    88,
+    "\"protocolVersion\": (msg.get(\"params\") or {}).get(\"protocolVersion\") or \"2025-06-18\","
+   ]
+  ]
+ },
+ {
+  "kind": "banana",
+  "repo": "JerponHR/alun-alun",
+  "url": "https://alun.evoracircle.com/mcp",
+  "name": "io.github.JerponHR/alun-alun",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "94809e05e32d",
+  "hits": [
+   [
+    "src/mcp.js",
+    98,
+    "protocolVersion: pesan.params?.protocolVersion ?? \"2025-03-26\","
+   ]
+  ]
+ },
+ {
+  "kind": "names",
+  "repo": "Avivcha/pody-mcp",
+  "url": "https://pody.io/api/mcp",
+  "name": "io.github.Avivcha/pody-mcp",
+  "bad": [
+   "studios.search",
+   "studios.get",
+   "podcasts.search",
+   "podcasts.get",
+   "glossary.lookup",
+   "industry_report.query"
+  ],
+  "live": true,
+  "repo_ok": true,
+  "sha": "55cac7b44bae",
+  "hits": []
+ },
+ {
+  "kind": "names",
+  "repo": "taux-io/twse-mcp",
+  "url": "https://twse-mcp.taux.io/mcp",
+  "name": "io.github.taux-io/twse-mcp",
+  "bad": [
+   "dataset.search",
+   "dataset.describe",
+   "dataset.get",
+   "snapshot.etf",
+   "quote.lookup",
+   "snapshot.stock",
+   "snapshot.market",
+   "snapshot.futures",
+   "quote.realtime"
+  ],
+  "live": true,
+  "repo_ok": true,
+  "sha": "901b483200e2",
+  "hits": [
+   [
+    "test/catalog.test.ts",
+    127,
+    "// \u96f6\u6b04\u4f4d\u6703\u8b93 dataset.describe \u4ec0\u9ebc\u90fd\u8aaa\u4e0d\u51fa\u4f86\uff0c\u4e5f\u8b93 CSV \u5b88\u885b\u5931\u53bb\u6bd4\u5c0d\u5c0d\u8c61\u3002"
+   ],
+   [
+    "test/catalog.test.ts",
+    423,
+    "\"dataset.search\", \"dataset.describe\", \"dataset.get\", \"quote.lookup\","
+   ],
+   [
+    "test/catalog.test.ts",
+    451,
+    "expect(stripMcpPrefix(\"mcp__my_server__dataset_get\")).toBe(\"dataset.get\");"
+   ]
+  ]
+ },
+ {
+  "kind": "banana",
+  "repo": "totto/javabin-archieve",
+  "url": "https://mcp-javabin-archieve.fly.dev/mcp",
+  "name": "org.totto/javabin-archieve",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "e344bec04f12",
+  "hits": []
+ },
+ {
+  "kind": "banana",
+  "repo": "dockhold/mcp",
+  "url": "https://api.dockhold.eu/mcp",
+  "name": "eu.dockhold/dockhold",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "9d56079084c6",
+  "hits": []
+ },
+ {
+  "kind": "banana",
+  "repo": "fredxhansson-cmyk/compera-mcp",
+  "url": "https://compera.se/mcp",
+  "name": "io.github.fredxhansson-cmyk/compera",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "e1f9c2d27ad9",
+  "hits": []
+ },
+ {
+  "kind": "banana",
+  "repo": "vin-spiegel/htmldrop",
+  "url": "https://htmldrop.link/mcp",
+  "name": "io.github.vin-spiegel/htmldrop",
+  "bad": null,
+  "live": true,
+  "repo_ok": true,
+  "sha": "8f8c42b27418",
+  "hits": [
+   [
+    "src/mcp-sse.ts",
+    49,
+    "const requested = params?.protocolVersion;"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,149 @@
+[
+ {
+  "name": "org.memoryapi/defi",
+  "url": "https://defi.memoryapi.org/mcp",
+  "repo": null,
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "global.rootz.ship/maritime",
+  "url": "https://ship.rootz.global/mcp",
+  "repo": "rootz-global/mcp-servers",
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "io.github.onepunchtechnology/glassypic",
+  "url": "https://app.glassypic.com/mcp",
+  "repo": "One-Punch-Technology-Inc/glassypic-mcp-server",
+  "live": true,
+  "repo_ok": true,
+  "already": false,
+  "line": [
+   "src/transport/http.ts",
+   32,
+   "3a7926c70b60"
+  ]
+ },
+ {
+  "name": "org.kampyeri/mcp-server",
+  "url": "https://kampyeri.org/mcp",
+  "repo": null,
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "sh.graded/graded-x402",
+  "url": "https://graded.sh/mcp",
+  "repo": null,
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "io.github.razashariff/proofx",
+  "url": "https://proofx-mcp.fly.dev/mcp",
+  "repo": "razashariff/proofx",
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "com.submitrax/mcp",
+  "url": "https://mcp.submitrax.com/mcp",
+  "repo": null,
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "io.github.benkaiser/mob-demo",
+  "url": "https://demo.mobcrm.au/mcp",
+  "repo": "benkaiser/mob-mcp-crm",
+  "live": true,
+  "repo_ok": true,
+  "already": false,
+  "line": [
+   "tests/integration/web-api-import.test.ts",
+   55,
+   "30b3811d1d1c"
+  ]
+ },
+ {
+  "name": "io.github.deslay1/amendor-mcp",
+  "url": "https://amendor.site/mcp",
+  "repo": "deslay1/amendor-mcp",
+  "live": true,
+  "repo_ok": true,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "global.rootz.origin/filings",
+  "url": "https://origin.rootz.global/mcp",
+  "repo": "rootz-global/mcp-servers",
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "io.roadflow/roadflow",
+  "url": "https://roadflow.io/mcp",
+  "repo": null,
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "com.suomiatlas/area-statistics",
+  "url": "https://suomiatlas.com/api/mcp",
+  "repo": null,
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "et.bina/binasmart",
+  "url": "https://bina.et/mcp",
+  "repo": "akembalo-svg/binasmart-mcp",
+  "live": true,
+  "repo_ok": true,
+  "already": false,
+  "line": [
+   "mcp-server/server.mjs",
+   79,
+   "ae24411f6892"
+  ]
+ },
+ {
+  "name": "com.minispli/mini-splits",
+  "url": "https://minispli.com/mcp",
+  "repo": null,
+  "live": true,
+  "repo_ok": false,
+  "already": false,
+  "line": null
+ },
+ {
+  "name": "io.github.LambdaTest/mcp",
+  "url": "https://mcp.lambdatest.com/mcp",
+  "repo": "LambdaTest/mcp-server-guide",
+  "live": true,
+  "repo_ok": true,
+  "already": false,
+  "line": null
+ }
+]
