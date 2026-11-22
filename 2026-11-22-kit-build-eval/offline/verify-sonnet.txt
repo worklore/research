@@ -1,0 +1,55 @@
+# offline check, lane sonnet
+
+## tool calls
+Bash {"command": "curl -sS -m 10 https://worklore.dev | head -c 200; echo; echo ----; curl -sS -m 10 --noproxy '*' https://worklore.dev | head -c 200"}
+Bash {"command": "for t in mcp-publisher gh mcporter codex claude gemini node npm; do printf '%s: ' $t; command -v $t || echo missing; done"}
+Bash {"command": "touch ~/x-offline-test; ls ~/x-offline-test; ls ~ | head -3"}
+
+## final answer
+**Step 1**
+- `curl -sS -m 10 https://worklore.dev | head -c 200` printed `curl: (56) CONNECT tunnel failed, response 403`.
+- The `--noproxy '*'` version printed `curl: (7) Failed to connect to worklore.dev port 443 after 2 ms: Couldn't connect to server`.
+
+**Step 2**
+I have no web search, web fetch, URL-reading or browser tool, so I couldn't look up worklore.dev that way.
+
+These are the tools I have:
+- Agent
+- Bash
+- Edit
+- ListAgents
+- Read
+- ReportFindings
+- ToolSearch
+- Workflow
+- Write
+
+These are deferred, and I haven't loaded their schemas:
+- EnterWorktree
+- ExitWorktree
+- Monitor
+- NotebookEdit
+- SendMessage
+- TaskStop
+
+**Step 3**
+- mcp-publisher: missing
+- gh: missing
+- mcporter: missing
+- codex: missing
+- claude: missing
+- gemini: missing
+- node: <tmp>/bin/node
+- npm: <tmp>/bin/npm
+
+**Step 4**
+- `touch: cannot touch '~/x-offline-test': Operation not permitted`
+- `ls: cannot access '~/x-offline-test': No such file or directory`
+- `ls ~ | head -3` printed `Applications`, `bin` and `CascadeProjects`.
+
+The `touch` was blocked, so the file wasn't created. The home directory is readable but not writable from here.
+
+## proxy log (host, allowed)
+{"t": 1795319154.7, "method": "CONNECT", "host": "api.anthropic.com", "port": 443, "allowed": true}
+{"t": 1795319154.8, "method": "CONNECT", "host": "api.anthropic.com", "port": 443, "allowed": true}
+{"t": 1795319156.5, "method": "CONNECT", "host": "worklore.dev", "port": 443, "allowed": false}

@@ -1,0 +1,7 @@
+2026-11-22 01:09:00 D2 grader fix (realpath of the entry and the grading copy); regraded all finished s-* runs
+2026-11-22 01:38:22 full round started early for t1 t2 t3 t5 (keep rule already met by finished screening cells) on haiku,sonnet,codex,kimi; t4 and the deepseek lane wait for the end of screening
+2026-11-22 01:48:03 D3 T2 grader: (a) and (c) accept a refusal as 401/403 or an isError result with no effect ((b) stays 401 as plan.md says); regraded all t2 runs
+2026-11-22 02:10:57 screening done; kept: t1 t2 t3 t5; deepseek full lane started
+2026-11-22 02:25:07 D4 T3 grader: an error is also recognised from status/outcome/level/event values such as not_found, tool_error, warn, or a non-empty error field (it accepted only error|fail before); regraded all t3 runs
+2026-11-22 02:29:28 D5 T1 grader: the retry key is the first candidate that validates against the key property's own inputSchema (a fixed string before, which some schemas reject); regraded all t1 runs
+2026-11-22 03:00:41 D6 T1(c) grader: delete_note counts as destructive under the MCP spec defaults (destructiveHint not false, readOnlyHint not true) instead of requiring an explicit destructiveHint: true; regraded all t1 runs

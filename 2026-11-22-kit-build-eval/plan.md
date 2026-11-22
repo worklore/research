@@ -95,4 +95,52 @@ review. Agents online (with web search) are a different question.
 
 ## Deviations
 
-(none yet)
+Each change below was made after the first real run (the two pilot runs, 00:46). After every grader
+change all affected runs were regraded from their saved final workspaces, so every number in
+results.md comes from the final graders. The controls (`controls.out`) were rerun after each change:
+the untouched project still fails every check, the reference solution still passes every check, and
+the trap solutions still fail their trap checks.
+
+1. **Two pilot runs before screening** (`p-t3-kit-haiku-r1`, `p-t1-none-deepseek-r1`, 00:46) to test
+   the pipeline end to end. They are not counted, and nothing was changed because of them.
+2. **Grader: the server is started from its real path** (01:09, after 12 screening runs). Several
+   agents start the HTTP listener only when `import.meta.url` equals `process.argv[1]`. The grader ran
+   the server from `/tmp/...`, which macOS resolves to `/private/tmp/...`, so the guard was false and
+   the server exited: those runs failed T2 for the grader's reason, not theirs.
+3. **Grader T2(a) and T2(c): a refusal can be an `isError` result** (01:48). Several agents refuse an
+   anonymous write inside the tool (HTTP 200 with `isError: true`, and the write does not happen)
+   instead of answering HTTP 401. Check (b) still requires 401, as the plan says ("refused with 401").
+   Check (c) only says "refused", and (a)'s precondition "the server has sign-in" was refined before
+   the first run to "an anonymous write is refused"; both had wrongly counted 401 against isError a
+   second time. (c) now also checks that the refused writes had no effect.
+4. **Grader T3(a): more ways of marking a failed call** (02:25). The grader recognised a failed call
+   only from `ok: false` or a status equal to `error`/`fail`. Agents also wrote `outcome: "not_found"`,
+   `outcome: "tool_error"`, `level: "warn"` with `event: "tool_error"`, or an `error` field. These mark
+   the failure plainly and now count.
+   **Consequence for the screening decision:** with the corrected grader, T3 passes both checks in both
+   arms in both screening lanes, so by the keep rule it should have been dropped. It was kept on the
+   uncorrected grader, and its full round had already run when the bug was found. Its full-round
+   numbers are reported below as a ceiling (both arms pass), not as a result about the kit.
+5. **Grader T1(b): the retry key respects the tool's input schema** (02:29). The grader filled a
+   key-like argument (`id`, `requestId`, `idempotencyKey`...) with a fixed string. Two runs declared a
+   format for that key, so even the first create was refused. The grader now picks the first of a few
+   candidate values (a UUID first) that validates against the property's own schema, as a client that
+   reads the published inputSchema would.
+6. **Grader T1(c): spec defaults for annotations** (03:02). `delete_note` counted as destructive only
+   with an explicit `destructiveHint: true`. The MCP spec's defaults make a tool that is not read-only
+   destructive unless it says `destructiveHint: false`, and a client reads it that way. The check now
+   uses the defaults; `list_notes` still needs an explicit `readOnlyHint: true`.
+7. **T4 refusal plant** (grader detail fixed before the first run, recorded here because it shapes
+   what T4 measures). In SDK 1.32.2, McpServer turns any exception in a tool handler into an
+   `isError` result, so "a tool that throws instead of returning isError" is invisible to a client.
+   The plant therefore throws the one error code the SDK passes through as a JSON-RPC error
+   (`UrlElicitationRequired`): a refusal that reaches the client as a protocol error, which is the
+   story's own failure ("a real client threw where my test passed").
+8. **Scheduling.** The full round started at 01:38, before the last DeepSeek screening runs, for the
+   four tasks whose keep condition was already met by finished cells (an observed none-arm failure
+   cannot be undone by later runs). T4's drop was decided after the last screening run. The DeepSeek
+   full lane started when its screening lane ended.
+9. **Kimi web tools** were disabled with `[tools] disabled` in a scratch config rather than an agent
+   file. An agent file replaces Kimi's system prompt with its own body; the config keeps the shipped
+   prompt. This was decided before the first run; recorded because the coordinator's brief suggested
+   an agent file.

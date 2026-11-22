@@ -1,0 +1,1 @@
+Add bearer-token sign-in to the HTTP transport (src/http.ts): only signed-in users may change notes. The valid tokens are in the NOTES_API_TOKENS environment variable, comma-separated; a request is signed in when it sends `Authorization: Bearer <one of them>`.

@@ -1,0 +1,1 @@
+Add logging to this MCP server so that in production we can see which tools are used and how they fail. Don't log personal data.

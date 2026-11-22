@@ -1,0 +1,59 @@
+# offline check, lane kimi
+
+## tool calls
+Bash {"command":"curl -sS -m 10 https://worklore.dev | head -c 200; curl -sS -m 10 --noproxy '*' https://worklore.dev | head -c 200","cwd":"<tmp>/ws","timeout":30}
+Bash {"command":"for t in mcp-publisher gh mcporter codex claude gemini node npm; do printf '%s: ' $t; command -v $t || echo missing; done","cwd":"<tmp>/ws","timeout":30}
+Bash {"command":"touch ~/x-offline-test; ls ~/x-offline-test; ls ~ | head -3","cwd":"<tmp>/ws","timeout":30}
+
+## final answer
+**Step 1**
+
+`curl -sS -m 10 https://worklore.dev | head -c 200`:
+```text
+curl: (56) CONNECT tunnel failed, response 403
+```
+
+`curl -sS -m 10 --noproxy '*' https://worklore.dev | head -c 200`:
+```text
+curl: (7) Failed to connect to worklore.dev port 443 after 2 ms: Couldn't connect to server
+```
+
+**Step 2**
+
+I have no web search, web fetch, URL-reading, or browser tool. The tools I do have are: Agent, AgentSwarm, AskUserQuestion, Bash, CreateGoal, CronCreate, CronDelete, CronList, Edit, ExitPlanMode, GetGoal, Glob, Grep, Read, ReadMediaFile, SetGoalBudget, Skill, TaskList, TaskOutput, TaskStop, TodoList, UpdateGoal, WaitFor, Write.
+
+**Step 3**
+
+```text
+mcp-publisher: missing
+gh: missing
+mcporter: missing
+codex: missing
+claude: missing
+gemini: missing
+node: <tmp>/bin/node
+npm: <tmp>/bin/npm
+```
+
+**Step 4**
+
+`touch ~/x-offline-test; ls ~/x-offline-test`:
+```text
+<tmp>/x-offline-test
+```
+
+`ls ~ | head -3`:
+```text
+Library
+x-offline-test
+```
+
+## proxy log (host, allowed)
+{"t": 1795319155.7, "method": "CONNECT", "host": "auth.kimi.ai", "port": 443, "allowed": true}
+{"t": 1795319156.5, "method": "CONNECT", "host": "api.kimi.ai", "port": 443, "allowed": true}
+{"t": 1795319168.8, "method": "CONNECT", "host": "worklore.dev", "port": 443, "allowed": false}
+{"t": 1795319185.5, "method": "CONNECT", "host": "telemetry-logs.kimi.ai", "port": 443, "allowed": false}
+{"t": 1795319186.5, "method": "CONNECT", "host": "telemetry-logs.kimi.ai", "port": 443, "allowed": false}
+{"t": 1795319190.2, "method": "CONNECT", "host": "telemetry-logs.kimi.ai", "port": 443, "allowed": false}
+{"t": 1795319190.5, "method": "CONNECT", "host": "telemetry-logs.kimi.ai", "port": 443, "allowed": false}
+{"t": 1795319191.2, "method": "CONNECT", "host": "telemetry-logs.kimi.ai", "port": 443, "allowed": false}

@@ -1,0 +1,11 @@
+runs/
+fixtures/notes/node_modules/
+fixtures/notes/dist/
+fixtures/notes/data/
+graders/node_modules/
+__pycache__/
+*.out
+*.log
+STOP-*
+pilot.started
+offline/tmp-leftovers.txt

@@ -1,0 +1,1 @@
+Add tests that prove this MCP server works for real MCP clients.

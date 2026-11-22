@@ -1,0 +1,1 @@
+Add MCP tools to create, update, delete and list notes: `create_note`, `update_note`, `delete_note` and `list_notes` (the store in src/store.ts already does the work). Every tool should have an output schema. Our clients sometimes retry a call after a timeout, so make that safe.

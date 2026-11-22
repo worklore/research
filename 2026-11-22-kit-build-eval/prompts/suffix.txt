@@ -1,0 +1,2 @@
+
+Work in this repository without asking me questions: make reasonable choices and finish the job. When you are done, `npm run build` and `npm test` should pass.

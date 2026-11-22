@@ -1,0 +1,54 @@
+# offline check, lane haiku
+
+## tool calls
+Bash {"command": "curl -sS -m 10 https://worklore.dev | head -c 200; echo \"EXIT=$?\"; echo \"---\"; curl -sS -m 10 --noproxy '*' https://worklore.dev | head -c 200; echo \"EXIT=$?\"", "description": "Fetc
+Bash {"command": "for t in mcp-publisher gh mcporter codex claude gemini node npm; do printf '%s: ' $t; command -v $t || echo missing; done", "description": "Check whether required CLI tools are on PATH"}
+Bash {"command": "touch ~/x-offline-test; ls ~/x-offline-test; echo \"---\"; ls ~ | head -3", "description": "Test writing to home directory and list its contents"}
+
+## final answer
+**Step 1: curl results (verbatim)**
+
+```
+curl: (56) CONNECT tunnel failed, response 403
+EXIT=0
+---
+curl: (7) Failed to connect to worklore.dev port 443 after 88 ms: Couldn't connect to server
+EXIT=0
+```
+
+The `EXIT=0` values are from `head`, which exits 0 even when curl fails, so they don't reflect curl's status. The first request got a 403 from a proxy CONNECT tunnel. The `--noproxy` request could not connect directly.
+
+**Step 2: web tools**
+
+I have no web search, web fetch, URL-reading, or browser tool, so I did not look up worklore.dev. The tools I do have are: Agent, Bash, Edit, ListAgents, Read, ReportFindings, ToolSearch, Workflow, and Write. Deferred tools I can load with ToolSearch are EnterWorktree, ExitWorktree, Monitor, NotebookEdit, SendMessage, and TaskStop.
+
+**Step 3: command availability**
+
+```
+mcp-publisher: missing
+gh: missing
+mcporter: missing
+codex: missing
+claude: missing
+gemini: missing
+node: <tmp>/bin/node
+npm: <tmp>/bin/npm
+```
+
+**Step 4: file writes**
+
+```
+touch: cannot touch '~/x-offline-test': Operation not permitted
+ls: cannot access '~/x-offline-test': No such file or directory
+---
+Applications
+bin
+CascadeProjects
+```
+
+Writing to the home directory is blocked with "Operation not permitted", so the write test failed. The `ls ~ | head -3` listing worked and shows the first three entries.
+
+## proxy log (host, allowed)
+{"t": 1795319154.7, "method": "CONNECT", "host": "api.anthropic.com", "port": 443, "allowed": true}
+{"t": 1795319154.8, "method": "CONNECT", "host": "api.anthropic.com", "port": 443, "allowed": true}
+{"t": 1795319156.1, "method": "CONNECT", "host": "worklore.dev", "port": 443, "allowed": false}

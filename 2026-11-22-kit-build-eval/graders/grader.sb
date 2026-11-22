@@ -1,0 +1,9 @@
+;; Sandbox for the hidden graders, which run the agent's code (build, server, tests):
+;; no network except localhost, no writes in the real home, no launchctl/osascript.
+(version 1)
+(allow default)
+(deny network-outbound)
+(allow network-outbound (remote ip "localhost:*"))
+(allow network-outbound (remote unix-socket))
+(deny file-write* (subpath (param "HOME")))
+(deny process-exec (literal "/bin/launchctl") (literal "/usr/bin/osascript"))

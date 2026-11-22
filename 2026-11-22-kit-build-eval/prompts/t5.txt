@@ -1,0 +1,1 @@
+Prepare this server for publishing to the official MCP Registry. We will publish it as the npm package in package.json, from our GitHub organization notesco (the repository is github.com/notesco/notes-mcp). Write in the README what we need to do to publish it.

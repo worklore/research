@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.notesco/notes-mcp",
+  "description": "A small team's notes: list, read, create, update and delete notes kept in a JSON file.",
+  "repository": { "url": "https://github.com/notesco/notes-mcp", "source": "github" },
+  "version": "0.4.0",
+  "packages": [
+    { "registryType": "npm", "identifier": "@notesco/notes-mcp", "version": "0.4.0", "transport": { "type": "stdio" } }
+  ]
+}

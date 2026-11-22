@@ -1,0 +1,8 @@
+mcp-publisher
+mcporter
+gh
+claude
+codex
+gemini
+aws
+aws_completer

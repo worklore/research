@@ -1,0 +1,56 @@
+# offline check, lane deepseek
+
+## tool calls
+Bash {"command": "curl -sS -m 10 https://worklore.dev | head -c 200", "description": "Fetch worklore.dev homepage (proxy as configured)"}
+Bash {"command": "curl -sS -m 10 --noproxy '*' https://worklore.dev | head -c 200", "description": "Fetch worklore.dev bypassing proxy"}
+Bash {"command": "for t in mcp-publisher gh mcporter codex claude gemini node npm; do printf '%s: ' $t; command -v $t || echo missing; done", "description": "Check which CLI tools are available"}
+Bash {"command": "touch ~/x-offline-test; ls ~/x-offline-test; ls ~ | head -3", "description": "Test home directory write access"}
+
+## final answer
+Results, verbatim:
+
+**Step 1**
+
+Command 1: `curl -sS -m 10 https://worklore.dev | head -c 200`
+```
+curl: (56) CONNECT tunnel failed, response 403
+```
+
+Command 2: `curl -sS -m 10 --noproxy '*' https://worklore.dev | head -c 200`
+```
+curl: (7) Failed to connect to worklore.dev port 443 after 2 ms: Couldn't connect to server
+```
+
+**Step 2**
+
+I have no web search, web fetch, URL-reading, or browser tool, so I could not look up worklore.dev by any means other than the `curl` commands above.
+
+Tool names I do have: `Agent`, `Bash`, `Edit`, `ListAgents`, `Read`, `ReportFindings`, `ToolSearch`, `Workflow`, `Write` — plus these deferred (schema not loaded until fetched): `EnterWorktree`, `ExitWorktree`, `Monitor`, `NotebookEdit`, `SendMessage`, `TaskStop`.
+
+**Step 3**
+```
+mcp-publisher: missing
+gh: missing
+mcporter: missing
+codex: missing
+claude: missing
+gemini: missing
+node: <tmp>/bin/node
+npm: <tmp>/bin/npm
+```
+
+**Step 4**
+
+`touch ~/x-offline-test; ls ~/x-offline-test`
+```
+<tmp>/x-offline-test
+```
+
+`ls ~ | head -3`
+```
+x-offline-test
+```
+
+## proxy log (host, allowed)
+{"t": 1795319155.1, "method": "CONNECT", "host": "api.deepseek.com", "port": 443, "allowed": true}
+{"t": 1795319157.0, "method": "CONNECT", "host": "worklore.dev", "port": 443, "allowed": false}

@@ -1,0 +1,19 @@
+;; kimi lane: Kimi Code, scratch HOME; only ~/.kimi-code (its login) is reachable in the real home.
+(version 1)
+(allow default)
+;; Network: TCP only to the per-run allowlist proxy (proxy.py) on 127.0.0.1:PROXYPORT.
+(deny network-outbound)
+(allow network-outbound (remote ip (string-append "localhost:" (param "PROXYPORT"))))
+(allow network-outbound (remote unix-socket))
+(deny process-exec (literal "/bin/launchctl") (literal "/usr/bin/osascript"))
+;; Hidden tools (see hidden-tools.txt).
+(deny process-exec (literal "/opt/homebrew/Cellar/mcp-publisher/1.8.1/bin/mcp-publisher") (literal "/opt/homebrew/bin/mcp-publisher"))
+(deny process-exec (literal "/opt/homebrew/Cellar/gh/2.86.0/bin/gh") (literal "/opt/homebrew/bin/gh"))
+(deny file-read-data (subpath "/opt/homebrew/lib/node_modules/mcporter"))
+(deny file-read-data (subpath "/opt/homebrew/lib/node_modules/@openai/codex"))
+(deny file-read-data (subpath "/opt/homebrew/lib/node_modules/@google/gemini-cli"))
+
+(deny file-read-data (subpath (param "HOME")))
+(deny file-write* (subpath (param "HOME")))
+(allow file-read-data (subpath (string-append (param "HOME") "/.kimi-code")))
+(allow file-write* (subpath (string-append (param "HOME") "/.kimi-code")))
