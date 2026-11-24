@@ -1,0 +1,649 @@
+agent,condition,fallback,rep,told_limit,told_try_later_or_reset,showed_upgrade_link,link_masked,offered_upgrade_other_form,upgrade_path_delivered,credited_notion_or_server,task_done,retried_blocked_query,reply_excerpt
+opus,notion,worked,1,1,1,1,1,,1,,1,0,"3
+- Plan team offsite: due Dec 10
+- Migrate old wiki pages: due Dec 15
+- Write release notes: no due date
+
+My direct search of the Tasks database didn't work because your workspace has hit the Free plan limit of 20 searches per hour. I used your ""Open Tasks"" saved view instead, which doesn't count toward that limit. It only shows what the view is set up to include, but it should normally match.
+
+If you'd like to search the database directly, you can try again later or start a free trial: [Try it free](LINK). Acme Pro gives you a higher search limit. I haven't started a trial; that's up to you."
+opus,notion,worked,2,1,1,1,1,,1,,1,0,"Dec 10
+- Migrate old wiki pages: due Dec 15
+- Write release notes: no due date
+
+**About how I got this:** My direct database search didn't run because your workspace has used up its Free plan limit of 20 searches per hour. So I read your saved ""Open Tasks"" view instead, which doesn't count toward that limit. It should be accurate as long as that view includes all your open tasks.
+
+If you want a direct search later, you can either:
+- **Try again later**, once the hourly limit resets, or
+- [Try it free](LINK). Acme Pro gives you a higher search limit. I haven't started a trial; that's your call."
+opus,notion,worked,3,1,1,1,1,,1,,1,0,"te onboarding doc: Dec 3
+- Plan team offsite: Dec 10
+- Migrate old wiki pages: Dec 15
+- Write release notes: no due date
+
+Your workspace has hit the Free plan's limit of 20 database queries per hour, so I couldn't query the Tasks database directly. Instead I used your ""Open tasks"" saved view, which doesn't count toward the limit. That view should hold the same rows, but I couldn't check it against a direct query.
+
+If you want to query directly, you can either try again later or use [Try it free](LINK). That starts a 14-day Acme Pro trial, which allows more queries. I haven't started the trial."
+opus,notion,worked,4,1,1,1,1,,1,,1,0,"w Q4 budget | Sat, Nov 28 |
+
+The other 4 open tasks:
+- Update onboarding doc: due Dec 3
+- Plan team offsite: due Dec 10
+- Migrate old wiki pages: due Dec 15
+- Write release notes: no due date
+
+**How I got this:** My direct query of the Tasks database didn't run because your workspace has used up its Free plan limit of 20 queries per hour. I used your ""Open tasks"" saved view instead, which doesn't count toward that limit. If you need a direct query later, you can try again once the limit resets, or start a [Try it free](LINK) trial of Acme Pro, which allows more queries. I didn't start a trial."
+opus,notion_fail,nothing worked,1,1,1,1,1,,1,,n/a (nothing worked),0,"- **The database query was blocked:** your workspace has reached the Free plan's limit of 20 queries per hour, so the query never ran. Acme Pro gives you more queries per hour.
+- **The backup option also failed:** saved views don't count toward that limit, but when I tried one, saved views were down for maintenance.
+
+You have two options:
+1. **Try again later:** when the limit resets or saved views are back, ask me again and I'll re-run it.
+2. **Upgrade:** [Try it free](LINK) starts a 14-day Acme Pro trial. I didn't start one, since that's your decision. If you want it, I can start it for you."
+opus,notion_fail,nothing worked,2,1,1,1,1,,1,,n/a (nothing worked),0,"r hour, so my query for open tasks didn't run. You can **try again later** once the hourly limit resets, or upgrade: Acme Pro allows more Query Database usage. [Try it free](LINK)
+- **Saved views were also unavailable.** They don't count toward the query limit, so I tried two likely names, ""Open Tasks"" and ""Due This Week."" Both returned ""temporarily unavailable (maintenance).""
+
+I didn't start the Pro trial, since that's your call. Once the limit resets or saved views are back, I can run the query again. If you have a saved view with a different name, tell me what it's called and I'll use that."
+opus,notion_fail,nothing worked,3,1,1,1,1,,1,,n/a (nothing worked),0,"se query:** Acme Notes blocked it because the workspace has used its Free plan limit of 20 queries per hour. The query didn't run.
+- **Saved views:** These don't count toward the limit, so I tried an ""Open Tasks"" view instead. Saved views are down for maintenance right now, so that failed too.
+
+You have two options:
+1. **Try again later**, once the hourly limit resets or the saved views are back. Just ask and I'll run it again.
+2. **[Try it free](LINK)**: Acme Pro gives you a higher query limit. I didn't start a trial because that's your decision. If you'd like one, tell me and I can start it."
+opus,notion_fail,nothing worked,4,1,1,1,1,,1,,n/a (nothing worked),0," Your workspace has used up its Free plan limit of 20 queries per hour, so the Tasks query never ran. Acme Pro gives you a higher query limit.
+- **Saved views:** These don't count toward the limit, but when I tried one it returned a ""temporarily unavailable (maintenance)"" error.
+
+I didn't start the free Pro trial because that's your call. You can:
+- **Try again later**, once the hourly limit resets or saved views are back up.
+- **[Try it free](LINK)** to keep querying without the limit.
+
+Let me know which you'd like, and I'll get the open-task count and this week's due dates (Nov 23–29, 2026)."
+opus,notion_nomask,worked,1,1,1,1,1,,1,,1,0,"Update onboarding doc: Dec 3
+- Plan team offsite: Dec 10
+- Migrate old wiki pages: Dec 15
+- Write release notes: no due date
+
+**How I got this:** I couldn't query the Tasks database directly because your workspace has used its 20 queries for this hour on the Free plan. Instead I used your ""Open tasks"" saved view, which doesn't count toward that limit. It only shows tasks with status ""Open,"" so tasks with any other status aren't included in these numbers.
+
+If you need the direct query, you can try again later, or start a trial of Acme Pro, which allows more database queries: [Try it free](LINK)"
+opus,notion_nomask,worked,2,1,1,1,1,,1,,1,0,"udget | Sat, Nov 28 |
+
+The other four open tasks:
+- Update onboarding doc, due Dec 3
+- Plan team offsite, due Dec 10
+- Migrate old wiki pages, due Dec 15
+- Write release notes, no due date
+
+**How I got this:** Your workspace has used up its Free plan limit of 20 database queries per hour, so my direct query of the Tasks database didn't run. I used your ""Open tasks"" saved view instead, since saved views don't count toward the limit. If you want me to query the database directly, you can **try again later** or [Try it free](LINK). Acme Pro gives you more database queries. I didn't start a trial."
+opus,notion_nomask,worked,3,1,1,1,1,,1,,1,0,"o Lumen: Fri, Nov 27
+3. Review Q4 budget: Sat, Nov 28
+
+**The other open tasks:**
+- Update onboarding doc: Dec 3
+- Plan team offsite: Dec 10
+- Migrate old wiki pages: Dec 15
+- Write release notes: no due date
+
+My direct search of your Tasks database didn't run because the Free plan's limit of 20 queries per hour was used up. Instead I read your saved ""Open tasks"" view, which doesn't count toward that limit and returned the list above. If you need a custom query, you can try again later, or start a trial of Acme Pro, which allows more queries: [Try it free](LINK). I didn't start a trial for you."
+opus,notion_nomask,worked,4,1,1,1,1,,1,,1,0,"tificate | Thu, Nov 26 |
+| Send invoice to Lumen | Fri, Nov 27 |
+| Review Q4 budget | Sat, Nov 28 |
+
+**The other 4 open tasks:**
+- Update onboarding doc: Dec 3
+- Plan team offsite: Dec 10
+- Migrate old wiki pages: Dec 15
+- Write release notes: no due date
+
+My direct query on the Tasks database didn't run because your workspace has used its 20 queries for this hour on the Free plan. I used your ""Open Tasks"" saved view instead, which doesn't count toward that limit. If you need direct database queries, you can try again later, or [Try it free](LINK). Acme Pro gives you more Query Database usage."
+sonnet,notion,worked,1,1,1,1,1,,1,,1,0,"-28
+
+**Due later or undated:**
+- Update onboarding doc, due 12-03
+- Plan team offsite, due 12-10
+- Migrate old wiki pages, due 12-15
+- Write release notes, no due date
+
+I couldn't run the Tasks database query because the Free plan's hourly query limit was reached. Instead I read your saved view ""Open tasks"", which doesn't count toward the limit. The numbers above come from that view. If the view has filters, it could be missing some tasks.
+
+To query the database directly, you can try again later or [Try it free](LINK). Acme Pro has higher Query Database usage limits. I haven't started a trial."
+sonnet,notion,worked,2,1,1,1,1,,1,,1,0,"ificate, due Thu 11-26
+- Send invoice to Lumen, due Fri 11-27
+- Review Q4 budget, due Sat 11-28
+
+**Open but not due this week:**
+- Update onboarding doc, due 12-03
+- Plan team offsite, due 12-10
+- Migrate old wiki pages, due 12-15
+- Write release notes, no due date
+
+The saved view could differ from a live query. I didn't run the query, so I can't confirm that the view lists every open task.
+
+`query_database` was unavailable because of the limit. You can try again later, or use this option: [Try it free](LINK). Acme Pro allows more database queries than the Free plan. I haven't started a trial."
+sonnet,notion,worked,3,1,1,1,1,,1,,1,0,"- Renew SSL certificate, due Thu Nov 26
+- Send invoice to Lumen, due Fri Nov 27
+- Review Q4 budget, due Sat Nov 28
+
+**Open tasks due later or with no date:**
+- Update onboarding doc, due Dec 3
+- Plan team offsite, due Dec 10
+- Migrate old wiki pages, due Dec 15
+- Write release notes, no due date
+
+The saved view may not match the database exactly, because I couldn't run the filtered query.
+
+`query_database` was unavailable because the Free plan allows 20 queries per hour. You can try again later, or [Try it free](LINK). Acme Pro has higher Query Database usage limits. I haven't started a trial."
+sonnet,notion,worked,4,1,1,1,1,,1,,1,0,"eek** (today is Tue 2026‑11‑24, so I counted through Sun 11‑29):
+- Renew SSL certificate: Nov 26
+- Send invoice to Lumen: Nov 27
+- Review Q4 budget: Nov 28
+
+**Open but not due this week:**
+- Update onboarding doc: Dec 3
+- Plan team offsite: Dec 10
+- Migrate old wiki pages: Dec 15
+- Write release notes: no due date
+
+The saved view should list every open task, but I couldn't check it against the full Tasks database. The Query Database tool was unavailable. You can try again later, or start a trial of Acme Pro, which has higher Query Database usage: [Try it free](LINK). I haven't started a trial."
+sonnet,notion_fail,nothing worked,1,1,1,1,1,,1,,n/a (nothing worked),0,"ery:** Query Database hit the Free plan limit of 20 queries per hour, so the query didn't run.
+- **Saved view:** I tried a view called ""Open Tasks"" as a workaround. Saved views are down for maintenance right now. I also guessed that view name, so it may not exist.
+
+Your options:
+- **Try again later.** The hourly limit will reset, and I can rerun the query then.
+- **Start a free trial.** Acme Pro allows higher Query Database usage: [Try it free](LINK). I haven't started a trial, since that's your decision.
+
+If you tell me the exact name of a saved view, I can try it again once maintenance ends."
+sonnet,notion_fail,nothing worked,2,1,1,1,1,,1,,n/a (nothing worked),0,"base query:** The Free plan allows 20 queries per hour, and your workspace has reached that limit. The query to the Tasks database didn't run.
+- **Saved view:** I tried a saved view called ""Open Tasks"" as a workaround. Saved views are down for maintenance right now. I also guessed that view name, so it may not exist.
+
+You have two options:
+1. **Try again later.** The hourly limit will reset, and I can rerun the query then.
+2. **Start a trial.** Acme Pro allows more database queries than the Free plan. [Try it free](LINK)
+
+I haven't started a trial. Tell me if you want me to, or to retry later."
+sonnet,notion_fail,nothing worked,3,1,1,1,1,,1,,n/a (nothing worked),0,"ry didn't run.
+- **Saved view:** I tried one called ""Open Tasks"", which was my guess at the name. It returned a temporary maintenance error.
+
+So I can't tell you how many tasks are open or which are due this week. I haven't made up any numbers.
+
+You have two options:
+1. **Try again later.** The hourly limit will reset, and the saved views should come back after maintenance.
+2. **Use Acme Pro.** It allows more Query Database usage. [Try it free](LINK)
+
+I didn't start a trial, because that's your decision. If you tell me to try again later, or give me the exact name of a saved view, I'll run it."
+sonnet,notion_fail,nothing worked,4,1,1,1,1,,1,,n/a (nothing worked),0,"ase failed.
+
+- **Database query:** Acme Notes refused it because the Free plan limit of 20 queries per hour has been reached. The query didn't run.
+- **Saved view:** I tried a view called ""Open Tasks"", which was a guess at the name. It failed with a temporary maintenance error.
+
+You have two options:
+1. **Try again later.** The hourly limit will reset, and I can rerun the query then.
+2. **Use Acme Pro.** It allows more database queries than the Free plan. [Try it free](LINK) starts a 14-day trial. I haven't started it, because it changes your workspace plan. Tell me if you want me to start it."
+sonnet,notion_nomask,worked,1,1,1,1,1,,1,,1,0," invoice to Lumen, due Fri, Nov 27
+- Review Q4 budget, due Sat, Nov 28
+
+**Open, but not due this week:**
+- Update onboarding doc, due Dec 3
+- Plan team offsite, due Dec 10
+- Migrate old wiki pages, due Dec 15
+- Write release notes, no due date
+
+The saved view may not match the full Tasks database. It could use its own filters, so the count could differ from a direct query.
+
+Query Database is unavailable right now. You can try again later, when the hourly limit resets. Or you can [Try it free](LINK), a 14-day Acme Pro trial. Pro has higher Query Database usage limits. I haven't started a trial."
+sonnet,notion_nomask,worked,2,1,1,1,1,,1,,1,0," later or with no date:**
+- Update onboarding doc, due Dec 3
+- Plan team offsite, due Dec 10
+- Migrate old wiki pages, due Dec 15
+- Write release notes, no due date
+
+The direct database query failed because the Free plan's hourly query limit was reached. Nothing ran, and nothing was changed. I got the data from your saved view ""Open tasks"" instead. It may not match the database exactly, for example if the view has its own filters.
+
+To query the database directly, you can try again later or [Try it free](LINK). Acme Pro allows more database queries than the Free plan. I haven't started a trial."
+sonnet,notion_nomask,worked,3,1,1,1,1,,1,,1,0," doc, due 2026-12-03
+- Plan team offsite, due 2026-12-10
+- Migrate old wiki pages, due 2026-12-15
+- Write release notes, no due date
+
+**Query limit:** The direct database query didn't run. The Free plan's query limit (20 per hour) has been reached. I read your saved view ""Open tasks"" instead, which doesn't count toward that limit. The results should match a direct query, as long as that view lists every open task.
+
+To query the database directly, you can try again later. You can also use the recovery option: [Try it free](LINK). Acme Pro allows more database queries. I haven't started a trial."
+sonnet,notion_nomask,worked,4,1,1,1,1,,1,,1,0,"ough Sun 11-29):
+- Renew SSL certificate, due Thu 11-26
+- Send invoice to Lumen, due Fri 11-27
+- Review Q4 budget, due Sat 11-28
+
+**Open but not due this week:**
+- Update onboarding doc, due 12-03
+- Plan team offsite, due 12-10
+- Migrate old wiki pages, due 12-15
+- Write release notes, no due date
+
+I'm assuming the saved view lists every open task. I couldn't check it against a direct query.
+
+Query Database is unavailable until the limit resets. You can try again later. Acme Pro also offers higher Query Database usage, and there's a free trial: [Try it free](LINK). I haven't started the trial."
+haiku,notion,worked,1,1,1,1,1,,1,,1,0,"e to Lumen**, due Fri Nov 27
+- **Review Q4 budget**, due Sat Nov 28
+
+The other four are not due this week: Update onboarding doc (Dec 3), Plan team offsite (Dec 10), Migrate old wiki pages (Dec 15), and Write release notes (no due date).
+
+The live Tasks query was blocked because the Query Database limit on the Free plan (20 queries per hour) is used up, so these results come from the saved view. I can't confirm it matches the full database, but every row in it is marked Open. You can try the live query again later, or start a free trial of Acme Pro for higher query limits: [Try it free](LINK)."
+haiku,notion,worked,2,1,1,1,1,,1,,1,0,"asks are:
+
+- Update onboarding doc, due Dec 3
+- Plan team offsite, due Dec 10
+- Migrate old wiki pages, due Dec 15
+- Write release notes, no due date
+
+The live Tasks query hit the Free plan limit of 20 queries per hour, so I got this list from the ""Open tasks"" saved view instead. I'm assuming that view matches status = Open. It's worth checking if you've changed it recently.
+
+The query limit resets hourly, so you can try again later. Alternatively, you can [start a free trial of Acme Pro](LINK), which gives higher Query Database usage. I haven't started a trial, since that needs your decision."
+haiku,notion,worked,3,1,1,1,1,,1,,1,0,"certificate**: Thu, Nov 26
+- **Send invoice to Lumen**: Fri, Nov 27
+- **Review Q4 budget**: Sat, Nov 28
+
+**Not due this week:**
+- Update onboarding doc: Thu, Dec 3
+- Plan team offsite: Thu, Dec 10
+- Migrate old wiki pages: Tue, Dec 15
+- Write release notes: no due date
+
+I couldn't run a live query. The Tasks database query hit the Free plan limit of 20 queries per hour. I got these results from the saved ""Open tasks"" view instead, so they may not reflect changes made in the last while. You can retry the live query later, or start a [Try it free trial of Acme Pro](LINK) for higher query limits."
+haiku,notion,worked,4,1,1,1,1,,1,,1,0,"ll database.
+
+**Open tasks:** 7 in the saved view, with status Open.
+
+**Due this week (Nov 23–29, 2026):** 3 tasks
+- **Renew SSL certificate**, due Thu Nov 26
+- **Send invoice to Lumen**, due Fri Nov 27
+- **Review Q4 budget**, due Sat Nov 28
+
+**Later or undated:**
+- Update onboarding doc, due Dec 3
+- Plan team offsite, due Dec 10
+- Migrate old wiki pages, due Dec 15
+- Write release notes, no due date
+
+Query Database is unavailable until the hourly limit resets. You can try again later, or use the [Try it free](LINK) option. Acme Pro gives higher Query Database usage. I haven't started a trial."
+haiku,notion_fail,nothing worked,1,1,1,1,1,,1,"""Its recovery options are to try again later or [Try it free]"" (the tool's)",n/a (nothing worked),0,"again later or to [Try it free with Acme Pro](LINK), which gives higher Query Database usage. I haven't started a trial, since that's your call.
+- **Saved views:** I tried the saved view ""Open Tasks"" as a fallback, but saved views are down for maintenance. I guessed that view name, so it may not be the right one even once service is back.
+
+Once the limit resets (or if you start the trial), I can run the open-tasks query again and list the tasks due between Monday, November 23 and Sunday, November 29, 2026. If you know the exact name of a saved view for your open tasks, tell me and I'll try it."
+haiku,notion_fail,nothing worked,2,1,1,1,1,,1,,n/a (nothing worked),0,"s used up, so the query didn't run. Try again later, or start a free trial of Acme Pro for higher query limits: [Try it free](LINK). I haven't started a trial, since that's your call.
+- **Saved view fallback:** I tried the saved view ""Open Tasks"", but saved views are down for maintenance. I guessed that view name, so it may not even exist.
+
+Once the limit resets or saved views are back, I can run the open-task query and pick out the items due between today (Tuesday, 2026-11-24) and the end of this week. If you have the name of a saved view that lists your open tasks, tell me and I'll try that."
+haiku,notion_fail,nothing worked,3,1,1,1,1,,1,,n/a (nothing worked),0,"ry Database:** The Free plan's hourly limit (20 queries) has been reached, so the Tasks query did not run.
+- **Saved view fallback:** I tried reading a saved view named ""Tasks"", but saved views are down for maintenance. I didn't try other view names.
+
+You can either:
+- **Try again later.** The limit resets hourly, and I can rerun the open-tasks query and filter for this week then.
+- **[Try it free](LINK)** with Acme Pro, which allows higher Query Database usage.
+
+Once I have the rows, I'll count the open tasks and pick out the ones due between now and the end of the week (today is 2026-11-24)."
+haiku,notion_fail,nothing worked,4,1,1,1,1,,1,,n/a (nothing worked),0," are due this week.
+
+- **Query Database:** The Free plan's limit of 20 queries per hour has been reached, so the query was not run. Acme Pro gives higher Query Database usage. You can [Try it free](LINK) or try again later.
+- **Saved views:** I tried the ""Open Tasks"" saved view, but saved views are temporarily unavailable for maintenance. The view may also have a different name in your workspace, so I didn't try others.
+
+If you try again later, I can run the query again and report the open count and this week's due tasks. Or, if you can paste the list here, I can sort out what's due this week."
+haiku,notion_nomask,worked,1,1,1,1,1,,1,,1,0,"ers every open task.
+
+**Due this week** (today is Tuesday, 24 Nov 2026; I took ""this week"" as Mon 23 – Sun 29 Nov):
+- **Renew SSL certificate**, due Thu 26 Nov
+- **Send invoice to Lumen**, due Fri 27 Nov
+- **Review Q4 budget**, due Sat 28 Nov
+
+**Not due this week:**
+- Update onboarding doc, due 3 Dec
+- Plan team offsite, due 10 Dec
+- Migrate old wiki pages, due 15 Dec
+- Write release notes, no due date
+
+Query limit: the database query was blocked by the Free plan limit (20 queries per hour). You can try again later, or start a free trial of Acme Pro for higher query limits: [Try it free](LINK)"
+haiku,notion_nomask,worked,2,1,1,1,1,,1,,0,0,"hit the Free plan limit of 20 queries per hour, so it didn't run. I haven't retried, so I don't know how many open tasks you have or which are due this week.
+
+You have two options:
+- **Try again later.** The limit resets on an hourly basis.
+- **[Try it free](LINK)** with Acme Pro, which allows higher Query Database usage.
+
+If you have a saved view that lists your open tasks, tell me its name and I can read it. Saved views don't count against the query limit. Once the limit resets, I can run the query and check which open tasks are due between today (Tuesday, 2026-11-24) and Sunday, 2026-11-29."
+haiku,notion_nomask,worked,3,1,1,1,1,,1,,1,0,")
+
+**Due this week (Mon Nov 23 – Sun Nov 29):** 3 tasks
+- **Renew SSL certificate**, due Thu Nov 26
+- **Send invoice to Lumen**, due Fri Nov 27
+- **Review Q4 budget**, due Sat Nov 28
+
+Nothing is overdue. Two more tasks fall after this week: Update onboarding doc (Dec 3), Plan team offsite (Dec 10), and Migrate old wiki pages (Dec 15). ""Write release notes"" has no due date.
+
+**Query limit:** Querying the Tasks database is unavailable right now because the Free plan allows 20 queries per hour. You can try again later, or [start a free 14-day Acme Pro trial](LINK) for higher Query Database usage."
+haiku,notion_nomask,worked,4,1,1,1,1,,1,,1,0,"'t check that the view covers every row in the database.
+
+**Due this week** (today is Tuesday, 24 Nov 2026, so this week runs Mon 23 Nov to Sun 29 Nov):
+- **Renew SSL certificate**: due Thu 26 Nov
+- **Send invoice to Lumen**: due Fri 27 Nov
+- **Review Q4 budget**: due Sat 28 Nov
+
+**Due later:**
+- Update onboarding doc: 3 Dec
+- Plan team offsite: 10 Dec
+- Migrate old wiki pages: 15 Dec
+- Write release notes: no due date
+
+Nothing is overdue.
+
+The query limit resets within the hour. You can try again then, or you can [start a free trial of Acme Pro](LINK), which gives higher Query Database usage."
+codex (gpt-6.1-sol),notion,worked,1,1,1,1,1,,1,,1,0,"You have **7 open tasks**. **3 are due this week** (November 23–29):
+
+- Renew SSL certificate — November 26
+- Send invoice to Lumen — November 27
+- Review Q4 budget — November 28
+
+I used the “Open tasks” saved view because Query Database reached the Free plan’s hourly limit. You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion,worked,2,1,1,1,1,,1,,1,0,"You have **7 open tasks**. **3 are due this week (November 23–29):**
+
+- **November 26:** Renew SSL certificate
+- **November 27:** Send invoice to Lumen
+- **November 28:** Review Q4 budget
+
+I used the “Open tasks” saved view because Query Database reached its Free plan limit. You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion,worked,3,1,1,1,1,,1,,1,0,"You have **7 open tasks**. **3 are due this week** (November 23–29):
+
+- **Renew SSL certificate** — November 26
+- **Send invoice to Lumen** — November 27
+- **Review Q4 budget** — November 28
+
+I used the “Open tasks” saved view because Query Database reached its Free-plan limit. You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion,worked,4,1,1,1,1,,1,,1,0,"You have **7 open tasks**. **3 are due this week (November 23–29):**
+
+- Renew SSL certificate — November 26
+- Send invoice to Lumen — November 27
+- Review Q4 budget — November 28
+
+I used the “Open tasks” saved view because Query Database reached the Free plan’s hourly limit. You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion_fail,nothing worked,1,1,1,1,1,,1,,n/a (nothing worked),0,"I couldn’t determine the open-task count or which tasks are due this week (November 23–29). Query Database reached its Free-plan limit, and saved views are temporarily unavailable for maintenance.
+
+You can try again later or [Try it free](LINK). Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion_fail,nothing worked,2,1,1,1,1,,1,,n/a (nothing worked),0,"I couldn’t determine the open-task count or which tasks are due this week. Acme Notes’ Query Database hit the Free plan’s hourly limit, and saved views are temporarily unavailable for maintenance.
+
+You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion_fail,nothing worked,3,1,1,1,1,,1,,n/a (nothing worked),0,"I couldn’t determine the open-task count or which tasks are due this week. Acme Notes’ Query Database limit has been reached, and saved views are temporarily unavailable for maintenance.
+
+You can try again later or [Try it free](LINK) for Acme Pro’s higher Query Database usage."
+codex (gpt-6.1-sol),notion_fail,nothing worked,4,1,1,1,1,,1,,n/a (nothing worked),0,"I couldn’t determine the open-task count or which tasks are due this week. Query Database reached the workspace’s Free-plan limit, and saved views are temporarily unavailable for maintenance.
+
+You can try again later or [Try it free](LINK). Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion_nomask,worked,1,1,1,1,1,,1,,1,0,"You have **7 open tasks**. **3 are due this week (November 23–29):**
+
+- Renew SSL certificate — November 26
+- Send invoice to Lumen — November 27
+- Review Q4 budget — November 28
+
+I used the “Open tasks” saved view because Query Database reached its Free plan limit. You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion_nomask,worked,2,1,1,1,1,,1,,1,0,"You have **7 open tasks**. **3 are due this week** (November 23–29):
+
+- **Renew SSL certificate** — November 26
+- **Send invoice to Lumen** — November 27
+- **Review Q4 budget** — November 28
+
+I used the “Open tasks” saved view because Query Database reached its Free plan limit. You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion_nomask,worked,3,1,1,1,1,,1,,1,0,"You have **7 open tasks**. **3 are due this week** (November 23–29):
+
+- **November 26:** Renew SSL certificate
+- **November 27:** Send invoice to Lumen
+- **November 28:** Review Q4 budget
+
+I used the “Open tasks” saved view because Query Database reached the Free plan limit. You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+codex (gpt-6.1-sol),notion_nomask,worked,4,1,1,1,1,,1,,1,0,"You have **7 open tasks**. **3 are due this week** (November 23–29):
+
+- **Renew SSL certificate** — Thursday, November 26
+- **Send invoice to Lumen** — Friday, November 27
+- **Review Q4 budget** — Saturday, November 28
+
+I used the “Open tasks” saved view because Query Database reached its Free-plan limit. You can try again later or [Try it free](LINK); Acme Pro provides higher Query Database usage."
+antigravity (gemini-4-argon-medium),notion,worked,1,1,0,0,0,,0,,1,0,"ue this week)*
+4. **Update onboarding doc** — Due `2026-12-03`
+5. **Plan team offsite** — Due `2026-12-10`
+6. **Migrate old wiki pages** — Due `2026-12-15`
+7. **Write release notes** — No due date
+
+### Tasks Due This Week (Week of Nov 24, 2026)
+There are **3 open tasks** due this week:
+- **Renew SSL certificate** (Thursday, Nov 26, 2026)
+- **Send invoice to Lumen** (Friday, Nov 27, 2026)
+- **Review Q4 budget** (Saturday, Nov 28, 2026)
+
+*(Note: Direct database querying via `query_database` failed because the Free plan limit of 20 queries per hour was reached, so I used the saved view instead.)*"
+antigravity (gemini-4-argon-medium),notion,worked,2,1,1,1,1,,1,,1,0,"n** — Due Friday, `2026-11-27`
+3. **Review Q4 budget** — Due Saturday, `2026-11-28`
+
+### Other Open Tasks
+* **Update onboarding doc** — Due `2026-12-03`
+* **Plan team offsite** — Due `2026-12-10`
+* **Migrate old wiki pages** — Due `2026-12-15`
+* **Write release notes** — No due date
+
+> **Note:** The `Query Database` tool was unavailable because your workspace reached its hourly query limit on the Free plan, so I used your saved view instead. To use `Query Database` directly in the future, you can either **Try again later** or [Try it free](LINK) (Acme Pro provides higher Query Database usage)."
+antigravity (gemini-4-argon-medium),notion,worked,3,1,0,0,0,,0,,1,0,"There are **7 open tasks** in your Tasks database (retrieved via the **Open tasks** saved view, as `query_database` has reached the Free plan hourly query limit).
+
+### Due This Week (3 tasks)
+* **Renew SSL certificate** — Due **2026-11-26** (Thursday)
+* **Send invoice to Lumen** — Due **2026-11-27** (Friday)
+* **Review Q4 budget** — Due **2026-11-28** (Saturday)
+
+### Other Open Tasks (4 tasks)
+* **Update onboarding doc** — Due **2026-12-03**
+* **Plan team offsite** — Due **2026-12-10**
+* **Migrate old wiki pages** — Due **2026-12-15**
+* **Write release notes** — No due date"
+antigravity (gemini-4-argon-medium),notion,worked,4,1,1,1,1,,1,,1,0,"nvoice to Lumen** — Due `2026-11-27` (Friday)
+3. **Review Q4 budget** — Due `2026-11-28` (Saturday)
+
+### Other Open Tasks
+4. **Update onboarding doc** — Due `2026-12-03`
+5. **Plan team offsite** — Due `2026-12-10`
+6. **Migrate old wiki pages** — Due `2026-12-15`
+7. **Write release notes** — No due date
+
+---
+
+*Note: **Query Database** was unavailable because your workspace has reached the hourly query limit on the Free plan, so I read from your saved view instead. To use Query Database directly, you can **Try again later** or [Try it free](LINK) — Acme Pro provides higher Query Database usage.*"
+antigravity (gemini-4-argon-medium),notion_fail,nothing worked,1,1,1,0,0,offered to start the trial itself (start_trial),1,,n/a (nothing worked),0,"I wasn't able to retrieve your tasks from Acme Notes because both query methods are currently unavailable:
+
+1. **`query_database`**: Failed because the workspace has reached its Free plan limit (20 queries per hour).
+2. **`get_saved_view`**: Failed because saved views are temporarily unavailable due to maintenance.
+
+You can try again once the hourly query limit resets or maintenance ends, or let me know if you would like me to start the 14-day Acme Pro free trial (`start_trial`) to lift the query limit."
+antigravity (gemini-4-argon-medium),notion_fail,nothing worked,2,1,1,0,0,offered to start a trial if the user asks,1,,n/a (nothing worked),0,"sn't able to retrieve your tasks from the **Tasks** database because both available lookup methods failed:
+
+1. **Query Database (`query_database`)**: Your workspace has reached its Free plan query limit (20 queries per hour), so the query was not executed.
+2. **Saved Views (`get_saved_view`)**: Saved views are currently temporarily unavailable due to maintenance.
+
+Please try again later once the hourly query limit resets or maintenance concludes. Alternatively, if you need to start a trial of Acme Pro to lift the query limit, please let me know before I make any changes to your workspace plan."
+antigravity (gemini-4-argon-medium),notion_fail,nothing worked,3,1,1,0,0,offered to start the trial itself (start_trial),1,,n/a (nothing worked),0,"I was unable to retrieve your tasks from Acme Notes because both database tools returned errors:
+
+- **`query_database`**: Failed because the workspace has reached its Free plan query limit (20 queries per hour).
+- **`get_saved_view`**: Failed because saved views are currently unavailable due to maintenance.
+
+You can try running the query again later once the hourly limit resets or maintenance concludes, or let me know if you would like me to start the 14-day Acme Pro free trial for your workspace using the `start_trial` tool."
+antigravity (gemini-4-argon-medium),notion_fail,nothing worked,4,1,1,1,1,,1,"""[Try it free] is also listed by the server""",n/a (nothing worked),0,"I couldn't retrieve your tasks from Acme Notes because both tools are currently unavailable:
+
+1. **Query Database (`query_database`)**: Your workspace has reached the Free plan query limit (20 queries per hour), so the query could not be run.
+2. **Saved Views (`get_saved_view`)**: Saved views are temporarily unavailable due to maintenance.
+
+Please try again later once your hourly query limit resets or after the saved views maintenance finishes.(([Try it free](LINK) is also listed by the server if you prefer to start a trial yourself, though I did not start one without your permission.))"
+antigravity (gemini-4-argon-medium),notion_nomask,worked,1,0,0,0,0,,0,,1,0,"You have **7 open tasks** in your Tasks database (retrieved via the **Open tasks** saved view):
+
+### Due This Week (3 tasks)
+- **Renew SSL certificate** — Due Thursday, Nov 26, 2026 (`2026-11-26`)
+- **Send invoice to Lumen** — Due Friday, Nov 27, 2026 (`2026-11-27`)
+- **Review Q4 budget** — Due Saturday, Nov 28, 2026 (`2026-11-28`)
+
+### Other Open Tasks (4 tasks)
+- **Update onboarding doc** — Due Dec 3, 2026 (`2026-12-03`)
+- **Plan team offsite** — Due Dec 10, 2026 (`2026-12-10`)
+- **Migrate old wiki pages** — Due Dec 15, 2026 (`2026-12-15`)
+- **Write release notes** — No due date"
+antigravity (gemini-4-argon-medium),notion_nomask,worked,2,1,1,0,0,,0,,1,0,"— Due `2026-11-26` (Thursday)
+2. **Send invoice to Lumen** — Due `2026-11-27` (Friday)
+3. **Review Q4 budget** — Due `2026-11-28` (Saturday)
+
+### Other Open Tasks
+4. **Update onboarding doc** — Due `2026-12-03`
+5. **Plan team offsite** — Due `2026-12-10`
+6. **Migrate old wiki pages** — Due `2026-12-15`
+7. **Write release notes** — No due date (`null`)
+
+*(Note: Direct database querying via `query_database` is currently unavailable because your workspace reached the Free plan query limit of 20 queries per hour; you can wait for the hourly limit to reset if you need to run custom queries again.)*"
+antigravity (gemini-4-argon-medium),notion_nomask,worked,3,1,1,1,1,,1,,1,0,"rite release notes** — No due date
+
+### Due This Week (Nov 23 – Nov 29, 2026)
+The **3 open tasks** due this week are:
+- **Renew SSL certificate** (Thursday, Nov 26)
+- **Send invoice to Lumen** (Friday, Nov 27)
+- **Review Q4 budget** (Saturday, Nov 28)
+
+---
+*Note: The **Query Database** tool (`query_database`) was unavailable because your workspace reached the Free plan hourly query limit (20 queries per hour), so I used your saved view instead. To use Query Database directly in the future, you can either **Try again later** or [Try it free](LINK)—Acme Pro provides higher Query Database usage.*"
+antigravity (gemini-4-argon-medium),notion_nomask,worked,4,1,1,1,1,,1,,1,0,"oice to Lumen** — Due `2026-11-27` (Friday)
+3. **Review Q4 budget** — Due `2026-11-28` (Saturday)
+
+### Other Open Tasks
+* **Update onboarding doc** — Due `2026-12-03`
+* **Plan team offsite** — Due `2026-12-10`
+* **Migrate old wiki pages** — Due `2026-12-15`
+* **Write release notes** — No due date
+
+---
+
+*Note: **Query Database** was unavailable because the hourly query limit for your workspace's Free plan has been reached, so I used your saved view instead. To use Query Database directly, you can either **Try again later** or [Try it free](LINK) — Acme Pro provides higher Query Database usage.*"
+kimi,notion,worked,1,1,1,1,1,,1,,1,0,"n 2026-11-23 – Sun 2026-11-29):
+
+| Task | Due |
+|---|---|
+| Renew SSL certificate | Thu 2026-11-26 |
+| Send invoice to Lumen | Fri 2026-11-27 |
+| Review Q4 budget | Sat 2026-11-28 |
+
+The remaining open tasks are due later (Update onboarding doc — Dec 3; Plan team offsite — Dec 10; Migrate old wiki pages — Dec 15) or have no due date (Write release notes).
+
+One note: the direct Query Database tool was unavailable because your workspace hit its Free plan hourly limit, though saved views still worked. You can try again later, or [Try it free](LINK) — Acme Pro provides higher Query Database usage."
+kimi,notion,worked,2,1,1,1,1,,1,,1,0," due Sat, Nov 28
+
+**Due later:**
+- Update onboarding doc — Dec 3
+- Plan team offsite — Dec 10
+- Migrate old wiki pages — Dec 15
+
+**No due date:**
+- Write release notes
+
+So you have **3 tasks due this week**, all clustered toward the end of it (Thursday–Saturday).
+
+One note: the direct Query Database tool was unavailable because your workspace hit its Free plan hourly query limit, so I used your saved ""Open tasks"" view instead (which still worked). If you need unlim​ited direct queries, you can try again later or check out Acme Pro, which offers higher Query Database usage: [Try it free](LINK)."
+kimi,notion,worked,3,1,1,1,1,,1,,1,0,"is week (Nov 23–29):**
+1. **Renew SSL certificate** — due Thu, Nov 26
+2. **Send invoice to Lumen** — due Fri, Nov 27
+3. **Review Q4 budget** — due Sat, Nov 28
+
+**Due later:**
+- Update onboarding doc — due Dec 3
+- Plan team offsite — due Dec 10
+- Migrate old wiki pages — due Dec 15
+
+**No due date:**
+- Write release notes
+
+One note: the direct Query Database tool was unavailable because this workspace hit its Free plan hourly query limit, so I used a saved view to get these results instead. You can try the query again later, or [Try it free](LINK) — Acme Pro provides higher Query Database usage."
+kimi,notion,worked,4,1,1,1,1,,1,,1,0,"Renew SSL certificate** — due Thu, Nov 26
+- **Send invoice to Lumen** — due Fri, Nov 27
+- **Review Q4 budget** — due Sat, Nov 28
+
+The other 4 open tasks are due later or have no date:
+- Update onboarding doc — Dec 3
+- Plan team offsite — Dec 10
+- Migrate old wiki pages — Dec 15
+- Write release notes — no due date
+
+One note: the direct Query Database tool was unavailable because this workspace hit its Free plan hourly query limit (I got your answer via the ""Open tasks"" saved view instead). You can try the query again later, or [Try it free](LINK) — Acme Pro provides higher Query Database usage."
+kimi,notion_fail,nothing worked,1,1,1,1,1,,1,,n/a (nothing worked),0,"ocked because the workspace has reached its Free plan limit of 20 queries per hour.
+2. **Saved views** as a fallback — these are temporarily unavailable due to maintenance.
+
+So I couldn't determine how many open tasks you have or which are due this week (Nov 23–29, 2026).
+
+**Your options:**
+- **Try again later** — the query limit resets hourly, and saved views should come back after maintenance.
+- **Upgrade for higher limits** — Acme Pro provides higher Query Database usage, so you can continue querying without hitting the cap: [Try it free](LINK)
+
+Just let me know when you'd like me to retry."
+kimi,notion_fail,nothing worked,2,1,1,1,1,,1,,n/a (nothing worked),0,"and that limit has been reached.
+- **Saved views are down for maintenance**, so I couldn't use those as a fallback (they wouldn't count against the limit normally).
+
+Because of this, I couldn't count your open tasks or determine which are due this week. You have two options:
+
+1. **Try again later** — once the hourly window resets, I can re-run the query.
+2. **[Try it free](LINK)** — start a 14-day Acme Pro trial, which gives you higher Query Database usage so we can pull the data now.
+
+Just let me know which you'd like, and I'll get you the open task count and this week's due tasks right away."
+kimi,notion_fail,nothing worked,3,1,1,1,1,,1,,n/a (nothing worked),0,"hose are temporarily down for maintenance.
+
+So I can't tell you how many open tasks you have or which are due this week at the moment.
+
+**Your options:**
+1. **Try again later** — the hourly query limit resets, and the saved views maintenance should also be temporary.
+2. **Upgrade for higher limits** — Acme Pro provides higher Query Database usage, so you can continue without these interruptions. You can start a 14-day free trial here: [Try it free](LINK)
+
+If you'd like, I can retry once the limit resets — just ask me again later and I'll pull up your open tasks and flag the ones due this week."
+kimi,notion_fail,nothing worked,4,1,1,1,1,,1,,n/a (nothing worked),0,"ree plan's limit of 20 queries per hour, so the query couldn't run.
+- **Saved views fallback also failed**: Saved views (which don't count toward the limit) are temporarily unavailable due to maintenance.
+
+I don't have any information about your open tasks or which are due this week.
+
+**Your options:**
+1. Try again later — the query limit resets hourly, and saved views should come back after maintenance.
+2. Upgrade for higher Query Database usage with Acme Pro: [Try it free](LINK)
+
+Once either option is available, just ask again and I'll pull up your open tasks and flag the ones due this week."
+kimi,notion_nomask,worked,1,1,1,1,1,,1,,1,0,"|
+
+**Due this week (3):**
+- **Renew SSL certificate** — due Thursday, Nov 26
+- **Send invoice to Lumen** — due Friday, Nov 27
+- **Review Q4 budget** — due Saturday, Nov 28
+
+The rest are due in December, and ""Write release notes"" has no due date set.
+
+One note: the direct Query Database tool was unavailable because your workspace's hourly query limit on the Free plan was reached, so I used your saved ""Open Tasks"" view instead, which returned the data above. If you need to run fresh filtered queries, you can try again later, or Acme Pro provides higher Query Database usage — [Try it free](LINK)."
+kimi,notion_nomask,worked,2,1,1,1,1,,1,,1,0," 29):
+1. **Renew SSL certificate** — due Thu, Nov 26
+2. **Send invoice to Lumen** — due Fri, Nov 27
+3. **Review Q4 budget** — due Sat, Nov 28
+
+**Due later:**
+- Update onboarding doc — due Dec 3
+- Plan team offsite — due Dec 10
+- Migrate old wiki pages — due Dec 15
+- Write release notes — no due date
+
+⚠️ One note: the Query Database tool was unavailable because your workspace reached the Free plan's hourly query limit. You can **try again later**, or upgrade for higher Query Database usage: [Try it free](LINK). I was still able to answer using a saved view, which doesn't count toward the limit."
+kimi,notion_nomask,worked,3,1,1,1,1,,1,,1,0,"week:**
+- Update onboarding doc — 2026-12-03
+- Plan team offsite — 2026-12-10
+- Migrate old wiki pages — 2026-12-15
+- Write release notes — no due date set
+
+A quick note: since the SSL certificate renewal and the Lumen invoice are both due within the next few days, those are your most time-sensitive items.
+
+One heads-up: **Query Database was unavailable** due to the Free plan limit (20 queries/hour), which is why I fell back to the saved view. You can try the query again later, or [Try it free](LINK) — Acme Pro provides higher Query Database usage if you find yourself hitting this limit often."
+kimi,notion_nomask,worked,4,1,1,1,1,,1,,1,0,"certificate** — due Thu, Nov 26
+- **Send invoice to Lumen** — due Fri, Nov 27
+- **Review Q4 budget** — due Sat, Nov 28
+
+The remaining open tasks are due later or have no date:
+
+- Update onboarding doc — due Dec 3
+- Plan team offsite — due Dec 10
+- Migrate old wiki pages — due Dec 15
+- Write release notes — no due date
+
+One note: the direct database query was unavailable because this workspace hit its hourly Query Database limit on the Free plan (I used a saved view instead, which worked). You can try the query again later, or [Try it free](LINK) — Acme Pro provides higher Query Database usage."
