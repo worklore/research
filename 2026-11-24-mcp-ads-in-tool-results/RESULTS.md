@@ -21,7 +21,7 @@ Lanes:
 - Antigravity CLI 1.5.16 with Gemini 4 Argon (medium).
 - Kimi Code 2.5.2 with its default model.
 
-In the tables, "all" means the six lanes with Codex on Sol; Terra is shown in its own column. Each cell is 4 runs, so read a difference of one run as noise and a 4/4 vs 0/4 split as a signal. Every row is in `results.csv`; the tables are also in `tables.md`. The small pilot that came first (78 runs) is in `RESULTS-pilot.md`, and a second block about referral questions is in `RESULTS-referral.md`.
+In the tables, "all" means the six lanes with Codex on Sol; Terra is shown in its own column. Each cell is 4 runs, so read a difference of one run as noise and a 4/4 vs 0/4 split as a signal. Every row is in `results.csv`; the tables are also in `tables.md`. The small pilot that came first (78 runs) is in `RESULTS-pilot.md`, and a second block about referral questions is in `RESULTS-referral.md`. A follow-up block (96 runs) on whether the defense line also blocks useful recovery guidance, and on how a disclosed, fair offer fares, is in `RESULTS-guidance.md`.
 
 ## The headline
 
